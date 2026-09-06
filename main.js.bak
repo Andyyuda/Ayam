@@ -1,0 +1,238 @@
+const {
+  default: makeWASocket,
+  useMultiFileAuthState,
+  fetchLatestBaileysVersion,
+  DisconnectReason
+} = require('@whiskeysockets/baileys');
+const fs = require('fs');
+const path = require('path');
+const pino = require('pino');
+const chalk = require('chalk');
+const readline = require('readline');
+const setting = require('./setting');
+const { getPhoneNumber, isOwner } = require('./lib/helper');
+
+const PLUGIN_DIR = './plugins';
+global.userState = {};
+
+// 🔌 Load semua plugin
+let plugins = [];
+fs.readdirSync(PLUGIN_DIR).forEach(file => {
+  if (file.endsWith('.js')) {
+    const plugin = require(path.join(__dirname, PLUGIN_DIR, file));
+    plugins.push(plugin);
+    console.log(chalk.green(`✅ Plugin loaded: ${plugin.name}`));
+  }
+});
+global.plugins = plugins;
+
+// 📟 Tanya nomor HP via terminal
+function tanyaNomor() {
+  return new Promise(resolve => {
+    const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+    rl.question(chalk.cyan('📱 Masukkan nomor HP (contoh: 628xxxxxxxxxx): '), (answer) => {
+      rl.close();
+      resolve(answer.trim().replace(/[^0-9]/g, ''));
+    });
+  });
+}
+
+async function start() {
+  const { state, saveCreds } = await useMultiFileAuthState('./auth');
+  const { version } = await fetchLatestBaileysVersion();
+
+  const sock = makeWASocket({
+    auth: state,
+    version,
+    logger: pino({ level: 'silent' }),
+    printQRInTerminal: false,
+    browser: ['BotWa', 'Desktop', '1.0']
+  });
+
+  sock.ev.on('creds.update', saveCreds);
+
+  // 🔐 Pairing code — hanya jika belum terdaftar
+  if (!state.creds.registered) {
+    const nomor = await tanyaNomor();
+    if (!nomor) {
+      console.log(chalk.red('❌ Nomor tidak boleh kosong. Coba lagi.'));
+      return start();
+    }
+
+    try {
+      const code = await sock.requestPairingCode(nomor);
+      const formatted = code.match(/.{1,4}/g).join('-');
+      console.log(chalk.bgGreen.black('\n╔══════════════════════════════╗'));
+      console.log(chalk.bgGreen.black('  🔑 PAIRING CODE BOT WHATSAPP  '));
+      console.log(chalk.bgGreen.black('╚══════════════════════════════╝'));
+      console.log(chalk.yellow(`\n  Kode: `) + chalk.bold.white(formatted));
+      console.log(chalk.gray('\n  Cara pakai:'));
+      console.log(chalk.gray('  1. Buka WhatsApp di HP'));
+      console.log(chalk.gray('  2. Titik 3 → Linked Devices → Link a Device'));
+      console.log(chalk.gray('  3. Pilih "Link with phone number instead"'));
+      console.log(chalk.gray(`  4. Masukkan kode: ${formatted}\n`));
+    } catch (err) {
+      console.log(chalk.red('❌ Gagal mendapatkan pairing code:'), err.message);
+    }
+  }
+
+  sock.ev.on('connection.update', async (update) => {
+    const { connection, lastDisconnect } = update;
+
+    if (connection === 'open') {
+      console.log(chalk.green('\n✅ Terhubung ke WhatsApp!'));
+      console.log(chalk.cyan(`👤 Bot: ${sock.user?.id}`));
+    }
+
+    if (connection === 'close') {
+      const reasonCode = lastDisconnect?.error?.output?.statusCode;
+      if (reasonCode !== DisconnectReason.loggedOut) {
+        console.log(chalk.yellow('🔄 Koneksi terputus, mencoba ulang...'));
+        setTimeout(start, 3000);
+      } else {
+        console.log(chalk.red('❌ Logout permanen. Hapus folder auth/ untuk login ulang.'));
+        fs.rmSync('./auth', { recursive: true, force: true });
+        start();
+      }
+    }
+  });
+
+  // 🧑‍🤝‍🧑 Handler join/leave grup
+  sock.ev.on('group-participants.update', async (update) => {
+    for (const plugin of plugins) {
+      if (typeof plugin.handleParticipantUpdate === 'function') {
+        try {
+          await plugin.handleParticipantUpdate(sock, update);
+        } catch (err) {
+          console.error('❌ Plugin group error:', err);
+        }
+      }
+    }
+  });
+
+  // 📩 Handler pesan masuk
+  sock.ev.on('messages.upsert', async ({ messages }) => {
+    const msg = messages[0];
+    if (!msg?.message || msg.key.remoteJid === 'status@broadcast') return;
+
+    const remoteJid = msg.key.remoteJid;
+    const sender = remoteJid;
+
+    const senderJid = msg.key.participant || remoteJid;
+    const senderNumber = getPhoneNumber(senderJid);
+
+    const isGroupMsg = remoteJid.endsWith('@g.us');
+    const isPrivate = !isGroupMsg;
+
+    const ownerCheck = isOwner(senderJid, setting.owner);
+
+    let text = msg.message?.conversation ||
+               msg.message?.extendedTextMessage?.text ||
+               msg.message?.imageMessage?.caption ||
+               msg.message?.videoMessage?.caption ||
+               msg.message?.documentMessage?.caption ||
+               msg.message?.buttonsResponseMessage?.selectedButtonId ||
+               msg.message?.listResponseMessage?.singleSelectReply?.selectedRowId || '';
+
+    if (msg.message?.interactiveResponseMessage?.nativeFlowResponseMessage?.paramsJson) {
+      try {
+        const params = JSON.parse(msg.message.interactiveResponseMessage.nativeFlowResponseMessage.paramsJson);
+        text = params.id;
+      } catch (e) {}
+    }
+
+    if (!text) return;
+
+    // 🎨 Terminal log berwarna dengan deteksi LID
+    {
+      const now = new Date();
+      const jam = now.toTimeString().slice(0, 8);
+      const waktu = chalk.gray(`[${jam}]`);
+
+      const isLid = senderJid.includes('@lid');
+      const tipeJid = isLid
+        ? chalk.bgMagenta.black(' LID ')
+        : chalk.bgCyan.black(' WA  ');
+
+      const bareId = getPhoneNumber(senderJid);
+      const idWarna = isLid
+        ? chalk.magentaBright.bold(bareId)
+        : chalk.cyanBright.bold(bareId);
+
+      const tipeChat = isGroupMsg
+        ? chalk.bgBlue.white(' GRP ')
+        : chalk.bgGreen.black(' PM  ');
+
+      const groupId = isGroupMsg
+        ? chalk.dim(` ${remoteJid.split('@')[0]}`)
+        : '';
+
+      const panah = chalk.white('→');
+      const pesan = text.startsWith('.')  || text.startsWith('$')
+        ? chalk.yellowBright.bold(text)
+        : chalk.white(text);
+
+      console.log(`${waktu} ${tipeJid} ${idWarna} ${panah} ${tipeChat}${groupId} ${panah} ${pesan}`);
+    }
+
+    // ⛔ Cek mode akses
+    let mode = 'off';
+    for (const name of ['.onlyprivate', '.onlygc', '.onlyowner']) {
+      const p = plugins.find(x => x.name === name);
+      if (p && typeof p.getMode === 'function') {
+        const result = p.getMode();
+        if (result !== 'off') { mode = result; break; }
+      }
+    }
+
+    if (
+      (mode === 'private' && !isPrivate) ||
+      (mode === 'group' && !isGroupMsg) ||
+      (mode === 'owner' && !ownerCheck)
+    ) return;
+
+    // 🔇 Mute handler
+    for (const plugin of plugins) {
+      if (typeof plugin.handleMessage === 'function') {
+        try { await plugin.handleMessage(sock, msg); } catch (e) {}
+      }
+    }
+
+    // 🔒 Cek & hapus pesan jika user dimute (hanya di grup)
+    if (isGroupMsg && msg.key.participant) {
+      try {
+        const muteDB = JSON.parse(fs.readFileSync('./mute.json'));
+        if (muteDB[remoteJid]?.[senderJid] === true) {
+          await sock.sendMessage(remoteJid, { delete: msg.key });
+          return;
+        }
+      } catch (e) {}
+    }
+
+    // 🔄 Cek sesi
+    const session = global.userState[sender];
+    if (session) {
+      const plugin = plugins.find(p => p.name === session.status);
+      if (plugin && typeof plugin.handleSession === 'function') {
+        return await plugin.handleSession(sock, sender, text, msg);
+      }
+    }
+
+    // ⚙️ Eksekusi plugin
+    const [command, ...args] = text.trim().split(' ');
+    const plugin = plugins.find(p =>
+      p.name === command.toLowerCase() || (Array.isArray(p.command) && p.command.includes(command.toLowerCase()))
+    );
+
+    if (plugin && typeof plugin.execute === 'function') {
+      try {
+        await plugin.execute(sock, sender, args, msg, text);
+      } catch (err) {
+        console.error('❌ Plugin error:', err);
+        await sock.sendMessage(sender, { text: '⚠️ Terjadi error saat menjalankan perintah.' }, { quoted: msg });
+      }
+    }
+  });
+}
+
+start();

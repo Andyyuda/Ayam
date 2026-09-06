@@ -1,0 +1,19 @@
+[Unit]
+Description=Bot WhatsApp - klmpkbot
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/botwa
+ExecStart=/usr/bin/node /root/botwa/main.js
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=botwa
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target

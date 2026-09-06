@@ -1,0 +1,6 @@
+name = "xl-checker"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+# Tambah variabel environment di sini kalau perlu

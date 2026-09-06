@@ -1,0 +1,7296 @@
+{
+  "axdgu10": {
+    "voucherId": "7684",
+    "harga": 48799,
+    "nama": "Kuota 10GB (5GB + 5GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.956Z"
+  },
+  "axdgu1": {
+    "voucherId": "7679",
+    "harga": 5200,
+    "nama": "Kuota 1GB (0.5GB + 0.5GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdmax2": {
+    "voucherId": "9916",
+    "harga": 13984,
+    "nama": "Kuota 2.5GB (2GB + 0.5GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdgu2": {
+    "voucherId": "7680",
+    "harga": 9800,
+    "nama": "Kuota 2GB (1GB + 1GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdmax3": {
+    "voucherId": "9917",
+    "harga": 20934,
+    "nama": "Kuota 3.5GB (3GB + 0.5GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdgu3": {
+    "voucherId": "7681",
+    "harga": 14849,
+    "nama": "Kuota 3GB (1.5GB + 1.5GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdgu4": {
+    "voucherId": "7682",
+    "harga": 19899,
+    "nama": "Kuota 4GB (2GB + 2GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdmax4": {
+    "voucherId": "9918",
+    "harga": 27884,
+    "nama": "Kuota 5GB (4GB + 1GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "xdgu6": {
+    "voucherId": "7685",
+    "harga": 29599,
+    "nama": "Kuota 6GB (3GB + 3GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdmax5": {
+    "voucherId": "9919",
+    "harga": 34884,
+    "nama": "Kuota 6GB (5GB + 1GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdgu8": {
+    "voucherId": "7683",
+    "harga": 39099,
+    "nama": "Kuota 8GB (4GB + 4GB Game), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdgo1": {
+    "voucherId": "10059",
+    "harga": 4599,
+    "nama": "Kuota Game 1GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "axdgo2": {
+    "voucherId": "10058",
+    "harga": 8150,
+    "nama": "Kuota Game 2GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg3sks": {
+    "voucherId": "5477",
+    "harga": 6480,
+    "nama": "1.5GB s/d 2.5GB (Bonus Lokal SKS), 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg10sks7": {
+    "voucherId": "5479",
+    "harga": 13150,
+    "nama": "1.5GB s/d 3GB (Bonus Lokal SKS), 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg4sks7": {
+    "voucherId": "4864",
+    "harga": 31800,
+    "nama": "11GB s/d 16GB (Bonus Lokal SKS), 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg5sks": {
+    "voucherId": "4870",
+    "harga": 26574,
+    "nama": "12GB s/d 30GB (Bonus Lokal SKS), 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg10sks7_2": {
+    "voucherId": "4865",
+    "harga": 45700,
+    "nama": "24GB s/d 55GB (Bonus Lokal SKS), 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg4sks": {
+    "voucherId": "5482",
+    "harga": 20897,
+    "nama": "2GB (Bonus Lokal SKS), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg1sks": {
+    "voucherId": "5475",
+    "harga": 9499,
+    "nama": "2GB s/d 3GB (Bonus Lokal SKS), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg1sks_2": {
+    "voucherId": "4867",
+    "harga": 12449,
+    "nama": "3.5GB s/d 4.5GB (Bonus Lokal SKS), 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg14sks15": {
+    "voucherId": "4866",
+    "harga": 73574,
+    "nama": "30GB s/d 50GB (Bonus Lokal SKS), 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg2sksm": {
+    "voucherId": "5476",
+    "harga": 10351,
+    "nama": "3GB s/d 4GB (Bonus Lokal SKS), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg2skshm": {
+    "voucherId": "4868",
+    "harga": 15450,
+    "nama": "4.5GB s/d 6.5GB (Bonus Lokal SKS), 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg3sks7": {
+    "voucherId": "5481",
+    "harga": 27074,
+    "nama": "4GB s/d 8GB (Bonus Lokal SKS), 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg3sks_2": {
+    "voucherId": "4869",
+    "harga": 22059,
+    "nama": "7.5GB s/d 12GB (Bonus Lokal SKS), 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg3sks7_2": {
+    "voucherId": "4863",
+    "harga": 27940,
+    "nama": "8.5GB s/d 12GB (Bonus Lokal SKS), 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg14sks15_2": {
+    "voucherId": "5480",
+    "harga": 28274,
+    "nama": "8GB (Bonus Lokal SKS), 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg5sks_2": {
+    "voucherId": "5478",
+    "harga": 41216,
+    "nama": "8GB s/d 22GB (Bonus Lokal SKS), 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mg4sks3": {
+    "voucherId": "4862",
+    "harga": 15750,
+    "nama": "9GB s/d 15GB (Bonus Lokal SKS), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.957Z"
+  },
+  "mga5": {
+    "voucherId": "4874",
+    "harga": 58440,
+    "nama": "14GB s/d 20GB , 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mga8": {
+    "voucherId": "4875",
+    "harga": 70919,
+    "nama": "20GB s/d 32GB , 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mga1": {
+    "voucherId": "4871",
+    "harga": 20498,
+    "nama": "3GB s/d 5GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mga2": {
+    "voucherId": "4872",
+    "harga": 36195,
+    "nama": "6GB s/d 9GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mga3": {
+    "voucherId": "4873",
+    "harga": 42940,
+    "nama": "8GB s/d 12GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdmsms10": {
+    "voucherId": "7005",
+    "harga": 42799,
+    "nama": "Kuota Lokal 10GB (Malang, Sidoarjo, Madura, Sumbawa), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdmsms16": {
+    "voucherId": "7004",
+    "harga": 50548,
+    "nama": "Kuota Lokal 16GB (Malang, Sidoarjo, Madura, Sumbawa), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdjtm4": {
+    "voucherId": "7001",
+    "harga": 10880,
+    "nama": "Kuota Lokal 4GB (Jawa Timur, Bali, Nusa Tenggara), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdjtmi5": {
+    "voucherId": "7000",
+    "harga": 13750,
+    "nama": "Kuota Lokal 5GB (Jawa Timur, Bali, Nusa Tenggara), 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdmsms3": {
+    "voucherId": "7003",
+    "harga": 42649,
+    "nama": "Kuota Lokal 5GB (Malang, Sidoarjo, Madura, Sumbawa), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdmsms6": {
+    "voucherId": "7002",
+    "harga": 43298,
+    "nama": "Kuota Lokal 6GB (Malang, Sidoarjo, Madura, Sumbawa), 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "adg100g28": {
+    "voucherId": "11225",
+    "harga": 126500,
+    "nama": "Axis Bronet 5G 100GB, 28 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdb150gb": {
+    "voucherId": "11181",
+    "harga": 150350,
+    "nama": "Axis Bronet 5G 150GB, 28 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdb23gb7": {
+    "voucherId": "11182",
+    "harga": 35274,
+    "nama": "Axis Bronet 5G 23GB, 7 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "adg250g28": {
+    "voucherId": "11224",
+    "harga": 202500,
+    "nama": "Axis Bronet 5G 250GB, 28 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdb25gb14": {
+    "voucherId": "11183",
+    "harga": 50299,
+    "nama": "Axis Bronet 5G 25GB, 14 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdb30gb3": {
+    "voucherId": "11184",
+    "harga": 25224,
+    "nama": "Axis Bronet 5G 30GB, 3 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "adg36g14": {
+    "voucherId": "11223",
+    "harga": 60949,
+    "nama": "Axis Bronet 5G 36GB, 14 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "adg45g7": {
+    "voucherId": "11222",
+    "harga": 44399,
+    "nama": "Axis Bronet 5G 45GB, 7 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "adg48g14": {
+    "voucherId": "11221",
+    "harga": 71049,
+    "nama": "Axis Bronet 5G 48GB, 14 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdb50gb5": {
+    "voucherId": "11185",
+    "harga": 40299,
+    "nama": "Axis Bronet 5G 50GB, 5 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdb65gb": {
+    "voucherId": "11186",
+    "harga": 100299,
+    "nama": "Axis Bronet 5G 65GB, 28 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "adg80g14": {
+    "voucherId": "11220",
+    "harga": 78199,
+    "nama": "Axis Bronet 5G 80GB, 14 Hari",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdm1": {
+    "voucherId": "11332",
+    "harga": 4454,
+    "nama": "(Gift) Kuota 1GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdm2": {
+    "voucherId": "11333",
+    "harga": 5254,
+    "nama": "(Gift) Kuota 2GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "xisunl1h": {
+    "voucherId": "10251",
+    "harga": 24799,
+    "nama": "Axis Aigo Unlimited / 1 Hari (24jam)",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgm2": {
+    "voucherId": "4859",
+    "harga": 22641,
+    "nama": "Kuota 10GB s/d 13GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgb5": {
+    "voucherId": "5842",
+    "harga": 15658,
+    "nama": "Kuota 12.5GB s/d 14GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgdss15": {
+    "voucherId": "8776",
+    "harga": 12649,
+    "nama": "Kuota 13GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgxs3": {
+    "voucherId": "8485",
+    "harga": 8549,
+    "nama": "Kuota 15GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axd19g14h": {
+    "voucherId": "10840",
+    "harga": 36239,
+    "nama": "Kuota 15GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgs3": {
+    "voucherId": "4890",
+    "harga": 22853,
+    "nama": "Kuota 16GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgwek5": {
+    "voucherId": "5844",
+    "harga": 27998,
+    "nama": "Kuota 17GB s/d 20GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgb12": {
+    "voucherId": "10850",
+    "harga": 17649,
+    "nama": "Kuota 17GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgwek7": {
+    "voucherId": "5843",
+    "harga": 31648,
+    "nama": "Kuota 23GB s/d 27GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgs5": {
+    "voucherId": "4891",
+    "harga": 27506,
+    "nama": "Kuota 24GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgm5": {
+    "voucherId": "4861",
+    "harga": 44998,
+    "nama": "Kuota 25GB s/d 29GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdhm510": {
+    "voucherId": "7700",
+    "harga": 11905,
+    "nama": "Kuota 2GB s/d 4GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgx1": {
+    "voucherId": "6402",
+    "harga": 12474,
+    "nama": "Kuota 3.5GB s/d 4.5GB + Bonus Lokal Jawa, Bali dan Nusra, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgm1": {
+    "voucherId": "4858",
+    "harga": 12625,
+    "nama": "Kuota 3.5GB s/d 4.5GB + Bonus Lokal SKS, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mg15gb3": {
+    "voucherId": "10033",
+    "harga": 21548,
+    "nama": "Kuota 30GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axd35g5h": {
+    "voucherId": "5846",
+    "harga": 33329,
+    "nama": "Kuota 32GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mg14sks15_3": {
+    "voucherId": "4892",
+    "harga": 56099,
+    "nama": "Kuota 36GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgb800": {
+    "voucherId": "8226",
+    "harga": 8849,
+    "nama": "Kuota 3GB s/d 4GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axd5g14h": {
+    "voucherId": "10839",
+    "harga": 17659,
+    "nama": "Kuota 3GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgwek20": {
+    "voucherId": "5845",
+    "harga": 46036,
+    "nama": "Kuota 45GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgbmi3": {
+    "voucherId": "9241",
+    "harga": 14101,
+    "nama": "Kuota 4GB s/d 5.5GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axd7g7h": {
+    "voucherId": "10837",
+    "harga": 16074,
+    "nama": "Kuota 4GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axd50g5h": {
+    "voucherId": "10836",
+    "harga": 36239,
+    "nama": "Kuota 50GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgm1gb1": {
+    "voucherId": "6035",
+    "harga": 6325,
+    "nama": "Kuota 5GB s/d 6GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgdss5": {
+    "voucherId": "10457",
+    "harga": 8274,
+    "nama": "Kuota 5GB s/d 6GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mg2sksh": {
+    "voucherId": "4889",
+    "harga": 14290,
+    "nama": "Kuota 5GB s/d 7GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mghmn4": {
+    "voucherId": "10141",
+    "harga": 21539,
+    "nama": "Kuota 5GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgb500": {
+    "voucherId": "4857",
+    "harga": 10686,
+    "nama": "Kuota 5GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axd9g7h": {
+    "voucherId": "10838",
+    "harga": 17623,
+    "nama": "Kuota 6GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgb4": {
+    "voucherId": "8487",
+    "harga": 13198,
+    "nama": "Kuota 8.5GB s/d 10GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgm3": {
+    "voucherId": "4860",
+    "harga": 26848,
+    "nama": "Kuota 8GB s/d 11GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgdss3": {
+    "voucherId": "8486",
+    "harga": 11778,
+    "nama": "Kuota 8GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axd10g5h": {
+    "voucherId": "4888",
+    "harga": 16664,
+    "nama": "Kuota 8GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgbmi1": {
+    "voucherId": "6084",
+    "harga": 12254,
+    "nama": "Bronet Boy Mini 1GB Nat + Bonus Lokal Hingga 2GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgboy1": {
+    "voucherId": "6088",
+    "harga": 24999,
+    "nama": "Bronet Boy SKS 2GB Nat + Bonus Lokal Hingga 2GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgboy2": {
+    "voucherId": "6087",
+    "harga": 24498,
+    "nama": "Bronet Boy SKS 3GB Nat + Bonus Lokal Hingga 2GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgboy3": {
+    "voucherId": "6086",
+    "harga": 32025,
+    "nama": "Bronet Boy SKS 6GB Nat + Bonus Lokal Hingga 3GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "mgboy5": {
+    "voucherId": "6085",
+    "harga": 45169,
+    "nama": "Bronet Boy SKS 8GB Nat + Bonus Lokal Hingga 4GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd8g5": {
+    "voucherId": "10587",
+    "harga": 20924,
+    "nama": "Paket Harian 10GB + Lokal, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd11g3": {
+    "voucherId": "10579",
+    "harga": 17149,
+    "nama": "Paket Harian 11GB + Lokal, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axs13g3h": {
+    "voucherId": "11368",
+    "harga": 17709,
+    "nama": "Paket Harian 13GB 3hr + Lokal",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd17g5": {
+    "voucherId": "10580",
+    "harga": 25874,
+    "nama": "Paket Harian 17GB + Lokal, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd2g5": {
+    "voucherId": "10581",
+    "harga": 12249,
+    "nama": "Paket Harian 2.5GB + Lokal, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd3g3": {
+    "voucherId": "10582",
+    "harga": 9149,
+    "nama": "Paket Harian 3GB + Lokal, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd4g5": {
+    "voucherId": "10583",
+    "harga": 13659,
+    "nama": "Paket Harian 4.5GB + Lokal, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd5g5": {
+    "voucherId": "10585",
+    "harga": 14599,
+    "nama": "Paket Harian 5,5GB + Lokal, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd5g3": {
+    "voucherId": "10584",
+    "harga": 10749,
+    "nama": "Paket Harian 5GB + Lokal, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdd7g3": {
+    "voucherId": "10586",
+    "harga": 12409,
+    "nama": "Paket Harian 7GB + Lokal, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axwn2": {
+    "voucherId": "6442",
+    "harga": 1909,
+    "nama": "Kuota 1.5GB (2 Jam)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axwn1": {
+    "voucherId": "6439",
+    "harga": 1129,
+    "nama": "Kuota 1GB (1 Jam)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axwn3": {
+    "voucherId": "6441",
+    "harga": 2845,
+    "nama": "Kuota 3GB (3 Jam)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axwn6": {
+    "voucherId": "6440",
+    "harga": 3690,
+    "nama": "Kuota 3GB (6 Jam)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axwnu1": {
+    "voucherId": "9511",
+    "harga": 1627,
+    "nama": "Kuota Unlimited 1 Jam",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdul1": {
+    "voucherId": "10400",
+    "harga": 6749,
+    "nama": "Kuota Unlimited 24 Jam",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axwnu3": {
+    "voucherId": "9512",
+    "harga": 3904,
+    "nama": "Kuota Unlimited 3 Jam",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdwrul48": {
+    "voucherId": "10420",
+    "harga": 20284,
+    "nama": "Kuota Unlimited 48 Jam",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "axdwrul72": {
+    "voucherId": "10421",
+    "harga": 25334,
+    "nama": "Kuota Unlimited 72 Jam",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "vbrd230": {
+    "voucherId": "9515",
+    "harga": 14649,
+    "nama": "Voucher Axis Bronet 2GB, 28Hr",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "vbrd330": {
+    "voucherId": "9516",
+    "harga": 17149,
+    "nama": "Voucher Axis Bronet 3GB s/d 5GB, 28Hr",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "vbrd630": {
+    "voucherId": "9517",
+    "harga": 28149,
+    "nama": "Voucher Axis Bronet 6GB s/d 9GB, 28Hr",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "vbrd830": {
+    "voucherId": "9518",
+    "harga": 36899,
+    "nama": "Voucher Axis Bronet 8GB s/d 12GB, 28Hr",
+    "operator": "Axis",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idu500": {
+    "voucherId": "10569",
+    "harga": 6485,
+    "nama": "Freedom 1.5GB (1GB + 0.5GB Apps), 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idfmax": {
+    "voucherId": "6064",
+    "harga": 146799,
+    "nama": "Freedom U Jumbo 90GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "id2": {
+    "voucherId": "411",
+    "harga": 54548,
+    "nama": "Freedom Unlimited 10GB (2GB + 8GB Apps), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "id3": {
+    "voucherId": "413",
+    "harga": 79292,
+    "nama": "Freedom Unlimited 20GB (3GB + 17GB Apps), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "id7": {
+    "voucherId": "416",
+    "harga": 101369,
+    "nama": "Freedom Unlimited 35GB (7GB + 28GB Apps), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idup1a": {
+    "voucherId": "1902",
+    "harga": 16008,
+    "nama": "Freedom Unlimited 3GB (1GB + 2GB Apps), 6 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "id10": {
+    "voucherId": "707",
+    "harga": 111963,
+    "nama": "Freedom Unlimited 45GB (10GB + 35GB Apps), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "id1": {
+    "voucherId": "409",
+    "harga": 35174,
+    "nama": "Freedom Unlimited 5.5GB (1GB + 4.5GB Apps), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "iday5h7": {
+    "voucherId": "10112",
+    "harga": 14636,
+    "nama": "Indosat Freedom Apps YouTube 5GB / 7 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrau15": {
+    "voucherId": "11291",
+    "harga": 218000,
+    "nama": "Kuota Roaming Australia 5GB, 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrch15g10": {
+    "voucherId": "11331",
+    "harga": 290000,
+    "nama": "Kuota Roaming China 15GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrch20g7": {
+    "voucherId": "11330",
+    "harga": 227000,
+    "nama": "Kuota Roaming China 20GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrch5g7": {
+    "voucherId": "11294",
+    "harga": 162000,
+    "nama": "Kuota Roaming China 5GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idreu15g30": {
+    "voucherId": "11295",
+    "harga": 362000,
+    "nama": "Kuota Roaming Eropa 15GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrph10g3": {
+    "voucherId": "11308",
+    "harga": 73699,
+    "nama": "Kuota Roaming Filipina 10GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrph30g7": {
+    "voucherId": "11309",
+    "harga": 91699,
+    "nama": "Kuota Roaming Filipina 30GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrhk30g7": {
+    "voucherId": "11296",
+    "harga": 164000,
+    "nama": "Kuota Roaming Hongkong & Macau 30GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrjp30g10": {
+    "voucherId": "11298",
+    "harga": 290000,
+    "nama": "Kuota Roaming Jepang 30GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrjp30g15": {
+    "voucherId": "11299",
+    "harga": 326000,
+    "nama": "Kuota Roaming Jepang 30GB, 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrjp30g7": {
+    "voucherId": "11297",
+    "harga": 245000,
+    "nama": "Kuota Roaming Jepang 30GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrcam20g7": {
+    "voucherId": "11293",
+    "harga": 227000,
+    "nama": "Kuota Roaming Kamboja 20GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrcam5g3": {
+    "voucherId": "11292",
+    "harga": 73699,
+    "nama": "Kuota Roaming Kamboja 5GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrsk35g10": {
+    "voucherId": "11317",
+    "harga": 272000,
+    "nama": "Kuota Roaming Korea Selatan 35GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrsk50g7": {
+    "voucherId": "11316",
+    "harga": 236000,
+    "nama": "Kuota Roaming Korea Selatan 50GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrmy100g": {
+    "voucherId": "11305",
+    "harga": 164000,
+    "nama": "Kuota Roaming Malaysia 100GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrmy100g7": {
+    "voucherId": "11304",
+    "harga": 102000,
+    "nama": "Kuota Roaming Malaysia 100GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrmy15g3": {
+    "voucherId": "11302",
+    "harga": 73699,
+    "nama": "Kuota Roaming Malaysia 15GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrmy50g5": {
+    "voucherId": "11303",
+    "harga": 91699,
+    "nama": "Kuota Roaming Malaysia 50GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrmy5g1": {
+    "voucherId": "11301",
+    "harga": 37349,
+    "nama": "Kuota Roaming Malaysia 5GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrml10g7": {
+    "voucherId": "11300",
+    "harga": 317000,
+    "nama": "Kuota Roaming Maldives 10GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrqt10g7": {
+    "voucherId": "11310",
+    "harga": 119000,
+    "nama": "Kuota Roaming Qatar 10GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrnz30g7": {
+    "voucherId": "11306",
+    "harga": 209000,
+    "nama": "Kuota Roaming Selandia Baru 30GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrnz40g10": {
+    "voucherId": "11307",
+    "harga": 299000,
+    "nama": "Kuota Roaming Selandia Baru 40GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrsg100g": {
+    "voucherId": "11315",
+    "harga": 182000,
+    "nama": "Kuota Roaming Singapura 100GB, 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrsg100g7": {
+    "voucherId": "11314",
+    "harga": 110000,
+    "nama": "Kuota Roaming Singapura 100GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrsg10g1": {
+    "voucherId": "11311",
+    "harga": 37399,
+    "nama": "Kuota Roaming Singapura 10GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrsg30g3": {
+    "voucherId": "11312",
+    "harga": 73699,
+    "nama": "Kuota Roaming Singapura 30GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrsg50g5": {
+    "voucherId": "11313",
+    "harga": 91699,
+    "nama": "Kuota Roaming Singapura 50GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrtw30g7": {
+    "voucherId": "11324",
+    "harga": 110000,
+    "nama": "Kuota Roaming Taiwan 30GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrtw40g10": {
+    "voucherId": "11325",
+    "harga": 164000,
+    "nama": "Kuota Roaming Taiwan 40GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrth10g3": {
+    "voucherId": "11318",
+    "harga": 73699,
+    "nama": "Kuota Roaming Thailand 10GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrth50g7": {
+    "voucherId": "11319",
+    "harga": 164000,
+    "nama": "Kuota Roaming Thailand 50GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrtr10g5": {
+    "voucherId": "11320",
+    "harga": 119000,
+    "nama": "Kuota Roaming Turki 10GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrtr20g7": {
+    "voucherId": "11321",
+    "harga": 164000,
+    "nama": "Kuota Roaming Turki 20GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrtr25g10": {
+    "voucherId": "11322",
+    "harga": 227000,
+    "nama": "Kuota Roaming Turki 25GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrtr30g15": {
+    "voucherId": "11323",
+    "harga": 335000,
+    "nama": "Kuota Roaming Turki 30GB, 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrue100g7": {
+    "voucherId": "11326",
+    "harga": 227000,
+    "nama": "Kuota Roaming Uni Emirat Arab 100GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrue50g30": {
+    "voucherId": "11327",
+    "harga": 632000,
+    "nama": "Kuota Roaming Uni Emirat Arab 50GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrvn15g10": {
+    "voucherId": "11329",
+    "harga": 173000,
+    "nama": "Kuota Roaming Vietnam 15GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idrvn15g7": {
+    "voucherId": "11328",
+    "harga": 128000,
+    "nama": "Kuota Roaming Vietnam 15GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idfiz11": {
+    "voucherId": "10217",
+    "harga": 17949,
+    "nama": "Freedom 5G 11GB (8GB + 3GB 5G), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "if5g4": {
+    "voucherId": "10519",
+    "harga": 34299,
+    "nama": "Freedom 5G 13GB (10GB + 3GB 5G), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "idfiz20": {
+    "voucherId": "10218",
+    "harga": 29149,
+    "nama": "Freedom 5G 20GB (17GB + 3GB 5G), 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "isdfi22g30h": {
+    "voucherId": "10352",
+    "harga": 52149,
+    "nama": "Freedom 5G 22GB (15GB + 7GB 5G), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "isdfi40g30h": {
+    "voucherId": "10356",
+    "harga": 69599,
+    "nama": "Freedom 5G 40GB (25GB + 15GB 5G), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.958Z"
+  },
+  "isdfi5g1h": {
+    "voucherId": "10220",
+    "harga": 8866,
+    "nama": "Freedom 5G 5GB (2GB + 3GB 5G), 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isdfi60g30h": {
+    "voucherId": "10357",
+    "harga": 88749,
+    "nama": "Freedom 5G 60GB (40GB + 20GB 5G), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isdfi6g1h": {
+    "voucherId": "10219",
+    "harga": 8889,
+    "nama": "Freedom 5G 6GB (3GB + 3GB 5G), 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isdfi80g30h": {
+    "voucherId": "10358",
+    "harga": 115005,
+    "nama": "Freedom 5G 80GB (50GB + 30GB 5G), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ida12": {
+    "voucherId": "6791",
+    "harga": 56999,
+    "nama": "Freedom Internet 12GB + Bonus Nelp Sesama &  All Operator, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfrmx1830": {
+    "voucherId": "6899",
+    "harga": 71544,
+    "nama": "Freedom Internet 18GB + Bonus Nelp Sesama &  All Operator, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfrmx77": {
+    "voucherId": "6898",
+    "harga": 22999,
+    "nama": "Freedom Internet 7GB + Bonus Nelp Sesama & All Operator, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idgs1g1": {
+    "voucherId": "9380",
+    "harga": 5815,
+    "nama": "Kuota 1GB + Unlimited Telp Sesama, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm197": {
+    "voucherId": "10466",
+    "harga": 29299,
+    "nama": "(Area Khusus) Freedom Internet 19GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm75": {
+    "voucherId": "10520",
+    "harga": 17759,
+    "nama": "(Area Khusus) Freedom Internet 7GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfh15": {
+    "voucherId": "8516",
+    "harga": 11735,
+    "nama": "Freedom Internet 1.5GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm10h14": {
+    "voucherId": "10767",
+    "harga": 26062,
+    "nama": "Freedom Internet 10GB, 14Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm13h7": {
+    "voucherId": "10766",
+    "harga": 23399,
+    "nama": "Freedom Internet 13GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfrh15n": {
+    "voucherId": "8089",
+    "harga": 20298,
+    "nama": "Freedom Internet 15GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfh157": {
+    "voucherId": "8517",
+    "harga": 27299,
+    "nama": "Freedom Internet 15GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfh177": {
+    "voucherId": "10128",
+    "harga": 27823,
+    "nama": "Freedom Internet 17GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idmn18h7": {
+    "voucherId": "10625",
+    "harga": 33944,
+    "nama": "Freedom Internet 18GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "indfr12": {
+    "voucherId": "6863",
+    "harga": 6136,
+    "nama": "Freedom Internet 1GB, 1Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfrh2n": {
+    "voucherId": "8413",
+    "harga": 12869,
+    "nama": "Freedom Internet 2.5GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idram20": {
+    "voucherId": "10620",
+    "harga": 16937,
+    "nama": "Freedom Internet 20GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm22h7": {
+    "voucherId": "10768",
+    "harga": 28799,
+    "nama": "Freedom Internet 22GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm2h3": {
+    "voucherId": "10464",
+    "harga": 8654,
+    "nama": "Freedom Internet 2GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "frmini25": {
+    "voucherId": "6864",
+    "harga": 13068,
+    "nama": "Freedom Internet 2GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ifs3g3": {
+    "voucherId": "10858",
+    "harga": 11765,
+    "nama": "Freedom Internet 3.5GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfh35": {
+    "voucherId": "9202",
+    "harga": 13198,
+    "nama": "Freedom Internet 3.5GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idram30": {
+    "voucherId": "10621",
+    "harga": 26135,
+    "nama": "Freedom Internet 30GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfigm3": {
+    "voucherId": "10666",
+    "harga": 13249,
+    "nama": "Freedom Internet 3GB + Bonus Voucher Diamond, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "frmini21": {
+    "voucherId": "6862",
+    "harga": 6720,
+    "nama": "Freedom Internet 3GB, 1Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "frmini33": {
+    "voucherId": "6865",
+    "harga": 11788,
+    "nama": "Freedom Internet 3GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "icm45": {
+    "voucherId": "10521",
+    "harga": 12874,
+    "nama": "Freedom Internet 4GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "icm84": {
+    "voucherId": "8006",
+    "harga": 6784,
+    "nama": "Freedom Internet 5GB, 1Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfrh5g2n": {
+    "voucherId": "9374",
+    "harga": 8018,
+    "nama": "Freedom Internet 5GB, 2Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfis5": {
+    "voucherId": "6099",
+    "harga": 12593,
+    "nama": "Freedom Internet 5GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "frmini55": {
+    "voucherId": "6866",
+    "harga": 13149,
+    "nama": "Freedom Internet 5GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfis7": {
+    "voucherId": "6098",
+    "harga": 20299,
+    "nama": "Freedom Internet 6.5GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ifk6n1": {
+    "voucherId": "10463",
+    "harga": 9200,
+    "nama": "Freedom Internet 6GB, 1Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm6h2": {
+    "voucherId": "10761",
+    "harga": 9203,
+    "nama": "Freedom Internet 6GB, 2Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm6h3": {
+    "voucherId": "10762",
+    "harga": 12683,
+    "nama": "Freedom Internet 6GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfh65": {
+    "voucherId": "10338",
+    "harga": 14348,
+    "nama": "Freedom Internet 6GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm6h5": {
+    "voucherId": "10763",
+    "harga": 14494,
+    "nama": "Freedom Internet 6GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idram75": {
+    "voucherId": "10622",
+    "harga": 44435,
+    "nama": "Freedom Internet 75GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm7h14": {
+    "voucherId": "10765",
+    "harga": 21137,
+    "nama": "Freedom Internet 7GB, 14Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm7h1": {
+    "voucherId": "10760",
+    "harga": 7864,
+    "nama": "Freedom Internet 7GB, 1Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfh7": {
+    "voucherId": "6821",
+    "harga": 22188,
+    "nama": "Freedom Internet 7GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfh83": {
+    "voucherId": "10667",
+    "harga": 13099,
+    "nama": "Freedom Internet 8GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "infr85": {
+    "voucherId": "6100",
+    "harga": 19537,
+    "nama": "Freedom Internet 8GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idrm9h5": {
+    "voucherId": "10764",
+    "harga": 16748,
+    "nama": "Freedom Internet 9GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ind97": {
+    "voucherId": "10465",
+    "harga": 22363,
+    "nama": "Freedom Internet 9GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idg12": {
+    "voucherId": "7276",
+    "harga": 50299,
+    "nama": "Kuota Reguler 12GB +Telp Sepuasanya ke Sesama + 60 Mnt All, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idg18": {
+    "voucherId": "7274",
+    "harga": 64074,
+    "nama": "Kuota Reguler 18GB + Bonus Telp, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idg7": {
+    "voucherId": "7272",
+    "harga": 22999,
+    "nama": "Kuota Reguler 7GB + Telp Sepuasanya ke Sesama + 15 Mnt All, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "hifi20gb": {
+    "voucherId": "10642",
+    "harga": 21599,
+    "nama": "Indosat Data Booster HiFi Air 20GB",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idhab250": {
+    "voucherId": "11173",
+    "harga": 183500,
+    "nama": "Indosat Data Booster HiFi Air 250GB",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "hifi50gb": {
+    "voucherId": "10644",
+    "harga": 43699,
+    "nama": "Indosat Data Booster HiFi Air 50GB",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idha1tb": {
+    "voucherId": "11174",
+    "harga": 915000,
+    "nama": "Indosat Data HiFi Air 1.000GB, 360Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "hifi1000gb": {
+    "voucherId": "10641",
+    "harga": 860500,
+    "nama": "Indosat Data HiFi Air 1000GB, 30 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idhf1000": {
+    "voucherId": "10643",
+    "harga": 881000,
+    "nama": "Indosat Data HiFi Air 1000GB, 360 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isdhfa125": {
+    "voucherId": "9466",
+    "harga": 87604,
+    "nama": "Indosat Data HiFi Air 125GB, 30 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isdhfa200": {
+    "voucherId": "9467",
+    "harga": 132313,
+    "nama": "Indosat Data HiFi Air 200GB, 30 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isdhfa500": {
+    "voucherId": "9468",
+    "harga": 221650,
+    "nama": "Indosat Data HiFi Air 500GB, 30 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isdhfa75": {
+    "voucherId": "9465",
+    "harga": 65674,
+    "nama": "Indosat Data HiFi Air 75GB, 30 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure15": {
+    "voucherId": "6845",
+    "harga": 10239,
+    "nama": "Indosat 1.5GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure10": {
+    "voucherId": "4776",
+    "harga": 33489,
+    "nama": "Indosat 10GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpr11": {
+    "voucherId": "6847",
+    "harga": 51499,
+    "nama": "Indosat 11GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpr12": {
+    "voucherId": "6848",
+    "harga": 45717,
+    "nama": "Indosat 12GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idn28h150": {
+    "voucherId": "9407",
+    "harga": 1198,
+    "nama": "Indosat 150MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpr13": {
+    "voucherId": "6849",
+    "harga": 45224,
+    "nama": "Indosat 15GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpr14": {
+    "voucherId": "6850",
+    "harga": 49949,
+    "nama": "Indosat 16GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure1": {
+    "voucherId": "4210",
+    "harga": 5948,
+    "nama": "Indosat 1GB / 14 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpure25": {
+    "voucherId": "6846",
+    "harga": 19522,
+    "nama": "Indosat 2.5GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idsm200": {
+    "voucherId": "3123",
+    "harga": 1730,
+    "nama": "Indosat 200MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpr20": {
+    "voucherId": "6851",
+    "harga": 53870,
+    "nama": "Indosat 20GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpr250": {
+    "voucherId": "6841",
+    "harga": 1865,
+    "nama": "Indosat 250MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpr30": {
+    "voucherId": "6852",
+    "harga": 62649,
+    "nama": "Indosat 25GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure2": {
+    "voucherId": "4768",
+    "harga": 17994,
+    "nama": "Indosat 2GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idsm100": {
+    "voucherId": "2014",
+    "harga": 11597,
+    "nama": "Indosat 2GB / 7 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idsm300": {
+    "voucherId": "3124",
+    "harga": 2550,
+    "nama": "Indosat 300MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure3": {
+    "voucherId": "4769",
+    "harga": 17487,
+    "nama": "Indosat 3GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure400": {
+    "voucherId": "6842",
+    "harga": 2808,
+    "nama": "Indosat 400MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure4": {
+    "voucherId": "4770",
+    "harga": 24669,
+    "nama": "Indosat 4GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idsm150": {
+    "voucherId": "2015",
+    "harga": 3530,
+    "nama": "Indosat 500MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "isatpr50": {
+    "voucherId": "6853",
+    "harga": 129698,
+    "nama": "Indosat 50GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure5": {
+    "voucherId": "4771",
+    "harga": 28545,
+    "nama": "Indosat 5GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure600": {
+    "voucherId": "6843",
+    "harga": 4196,
+    "nama": "Indosat 600MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure6": {
+    "voucherId": "4772",
+    "harga": 30820,
+    "nama": "Indosat 6GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure700": {
+    "voucherId": "6844",
+    "harga": 4862,
+    "nama": "Indosat 700MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idsm750": {
+    "voucherId": "3125",
+    "harga": 5100,
+    "nama": "Indosat 750MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure7": {
+    "voucherId": "4773",
+    "harga": 32495,
+    "nama": "Indosat 7GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "giisatpr800": {
+    "voucherId": "6854",
+    "harga": 6555,
+    "nama": "Indosat 800MB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure8": {
+    "voucherId": "4774",
+    "harga": 33495,
+    "nama": "Indosat 8GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ispure9": {
+    "voucherId": "4775",
+    "harga": 35499,
+    "nama": "Indosat 9GB / 28 Hari",
+    "operator": "Indosat",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "fri100": {
+    "voucherId": "7721",
+    "harga": 115492,
+    "nama": "Freedom Internet 100GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idsr1024": {
+    "voucherId": "9427",
+    "harga": 901735,
+    "nama": "Freedom Internet 1024GB, 360 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfp10n": {
+    "voucherId": "9920",
+    "harga": 33489,
+    "nama": "Freedom Internet 10GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idx12": {
+    "voucherId": "10236",
+    "harga": 44312,
+    "nama": "Freedom Internet 12GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idf12": {
+    "voucherId": "9227",
+    "harga": 44334,
+    "nama": "Freedom Internet 13GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idx14": {
+    "voucherId": "10237",
+    "harga": 44325,
+    "nama": "Freedom Internet 14GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfr150": {
+    "voucherId": "8507",
+    "harga": 121491,
+    "nama": "Freedom Internet 150GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idx15": {
+    "voucherId": "10238",
+    "harga": 45224,
+    "nama": "Freedom Internet 15GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idx16": {
+    "voucherId": "10239",
+    "harga": 45755,
+    "nama": "Freedom Internet 16GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idx18": {
+    "voucherId": "10240",
+    "harga": 51439,
+    "nama": "Freedom Internet 18GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfr200": {
+    "voucherId": "8506",
+    "harga": 171525,
+    "nama": "Freedom Internet 200GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfnp16": {
+    "voucherId": "2865",
+    "harga": 53276,
+    "nama": "Freedom Internet 20GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfp24": {
+    "voucherId": "10804",
+    "harga": 53549,
+    "nama": "Freedom Internet 24GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfr250": {
+    "voucherId": "10467",
+    "harga": 179368,
+    "nama": "Freedom Internet 250GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idx25": {
+    "voucherId": "10241",
+    "harga": 60309,
+    "nama": "Freedom Internet 25GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idram300": {
+    "voucherId": "9390",
+    "harga": 172025,
+    "nama": "Freedom Internet 300GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfnp25": {
+    "voucherId": "2866",
+    "harga": 60417,
+    "nama": "Freedom Internet 30GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfnp3": {
+    "voucherId": "2863",
+    "harga": 20988,
+    "nama": "Freedom Internet 3GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfr3a": {
+    "voucherId": "10409",
+    "harga": 22199,
+    "nama": "Freedom Internet 3GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idf40": {
+    "voucherId": "10712",
+    "harga": 70599,
+    "nama": "Freedom Internet 40GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfnp42": {
+    "voucherId": "2867",
+    "harga": 85300,
+    "nama": "Freedom Internet 42GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfi45": {
+    "voucherId": "10242",
+    "harga": 87893,
+    "nama": "Freedom Internet 45GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfr4a": {
+    "voucherId": "10524",
+    "harga": 29249,
+    "nama": "Freedom Internet 4GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfnp6": {
+    "voucherId": "2864",
+    "harga": 30675,
+    "nama": "Freedom Internet 5.5GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfnp50": {
+    "voucherId": "6044",
+    "harga": 88593,
+    "nama": "Freedom Internet 50GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idf52": {
+    "voucherId": "10235",
+    "harga": 94010,
+    "nama": "Freedom Internet 52GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ifk6a": {
+    "voucherId": "10408",
+    "harga": 30465,
+    "nama": "Freedom Internet 6.5GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfi65a": {
+    "voucherId": "10456",
+    "harga": 89822,
+    "nama": "Freedom Internet 65GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "frid428": {
+    "voucherId": "9363",
+    "harga": 30420,
+    "nama": "Freedom Internet 6GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfsz70": {
+    "voucherId": "7982",
+    "harga": 100499,
+    "nama": "Freedom Internet 70GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfrk7": {
+    "voucherId": "7926",
+    "harga": 30509,
+    "nama": "Freedom Internet 7GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idf80": {
+    "voucherId": "10523",
+    "harga": 118000,
+    "nama": "Freedom Internet 80GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfnp9": {
+    "voucherId": "6043",
+    "harga": 33154,
+    "nama": "Freedom Internet 9GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idfi65": {
+    "voucherId": "10351",
+    "harga": 89822,
+    "nama": "Freedom Internet Kita 65GB (45GB + 20GB Zona), 28hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sgylow23": {
+    "voucherId": "5907",
+    "harga": 11696,
+    "nama": "Kuota 1.5GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idyrn1": {
+    "voucherId": "4318",
+    "harga": 6805,
+    "nama": "Kuota 1GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idyrn3": {
+    "voucherId": "4319",
+    "harga": 5850,
+    "nama": "Kuota 1GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "idgy33": {
+    "voucherId": "6433",
+    "harga": 9399,
+    "nama": "Kuota 5GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "ygift57": {
+    "voucherId": "6436",
+    "harga": 16700,
+    "nama": "Kuota 5GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smd12m30": {
+    "voucherId": "9417",
+    "harga": 22266,
+    "nama": "Smart Data Malam 12GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smd12m7": {
+    "voucherId": "9416",
+    "harga": 11190,
+    "nama": "Smart Data Malam 12GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdun10g14h": {
+    "voucherId": "2803",
+    "harga": 29048,
+    "nama": "Smart Kuota 10GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "vol10gb": {
+    "voucherId": "8000",
+    "harga": 18998,
+    "nama": "Smart Kuota 10GB, 6 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smrmm20": {
+    "voucherId": "5806",
+    "harga": 31950,
+    "nama": "Smart Kuota 11GB (3GB + 5GB Kuota Malam + 3GB Chat), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smd200": {
+    "voucherId": "2801",
+    "harga": 180000,
+    "nama": "Smart Kuota 120GB (40GB + 80GB Kuota Malam), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smd150g28": {
+    "voucherId": "11272",
+    "harga": 140750,
+    "nama": "Smart Kuota 150GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "vol15gb": {
+    "voucherId": "8001",
+    "harga": 31298,
+    "nama": "Smart Kuota 15GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "vol25gb": {
+    "voucherId": "7942",
+    "harga": 36898,
+    "nama": "Smart Kuota 17GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sns203": {
+    "voucherId": "2797",
+    "harga": 19559,
+    "nama": "Smart Kuota 20GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sipn22g30h": {
+    "voucherId": "9409",
+    "harga": 56098,
+    "nama": "Smart Kuota 22GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sdj250": {
+    "voucherId": "8201",
+    "harga": 198500,
+    "nama": "Smart Kuota 250GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "vol50gb": {
+    "voucherId": "7941",
+    "harga": 63048,
+    "nama": "Smart Kuota 40GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smvrg5": {
+    "voucherId": "4430",
+    "harga": 9399,
+    "nama": "Smart Kuota 4GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "slk4g5": {
+    "voucherId": "5807",
+    "harga": 13799,
+    "nama": "Smart Kuota 4GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdbl100": {
+    "voucherId": "7589",
+    "harga": 98699,
+    "nama": "Smart Kuota 50GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sdk24": {
+    "voucherId": "9408",
+    "harga": 20398,
+    "nama": "Smart Kuota 5GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smd100": {
+    "voucherId": "2798",
+    "harga": 104499,
+    "nama": "Smart Kuota 60GB (20GB + 40GB Kuota Malam), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdbl66": {
+    "voucherId": "6835",
+    "harga": 97493,
+    "nama": "Smart Kuota 66GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smd10": {
+    "voucherId": "2796",
+    "harga": 14997,
+    "nama": "Smart Kuota 6GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdus7": {
+    "voucherId": "11077",
+    "harga": 32099,
+    "nama": "Smart Kuota 7GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smd150": {
+    "voucherId": "2800",
+    "harga": 134325,
+    "nama": "Smart Kuota 90GB (30GB + 60GB Kuota Malam), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "skm9": {
+    "voucherId": "11358",
+    "harga": 11189,
+    "nama": "Smart Kuota Malam 9GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdkfg175g28h": {
+    "voucherId": "10649",
+    "harga": 174925,
+    "nama": "Kuota 5G Smartfren 175GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smd5g180g": {
+    "voucherId": "10987",
+    "harga": 174478,
+    "nama": "Kuota 5G Smartfren 180GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdkfg250g28h": {
+    "voucherId": "10650",
+    "harga": 249225,
+    "nama": "Kuota 5G Smartfren 250GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdkfg350g28h": {
+    "voucherId": "10651",
+    "harga": 348275,
+    "nama": "Kuota 5G Smartfren 350GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdun5g4030": {
+    "voucherId": "11022",
+    "harga": 80424,
+    "nama": "Kuota 5G Smartfren 40GB, 30 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdunfg80g30h": {
+    "voucherId": "10954",
+    "harga": 120425,
+    "nama": "Kuota 5G Smartfren 80GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdfgn100h28": {
+    "voucherId": "10953",
+    "harga": 124628,
+    "nama": "Kuota Nonstop 5G Smartfren 100GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdfgn30h14": {
+    "voucherId": "10949",
+    "harga": 47358,
+    "nama": "Kuota Nonstop 5G Smartfren 30GB, 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdunfg40g30h": {
+    "voucherId": "10947",
+    "harga": 80524,
+    "nama": "Kuota Nonstop 5G Smartfren 40GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdfgn50h28": {
+    "voucherId": "10951",
+    "harga": 84447,
+    "nama": "Kuota Nonstop 5G Smartfren 50GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdunfg55g30h": {
+    "voucherId": "10647",
+    "harga": 100324,
+    "nama": "Kuota Nonstop 5G Smartfren 55GB, 30 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdfgn70h28": {
+    "voucherId": "10952",
+    "harga": 104688,
+    "nama": "Kuota Nonstop 5G Smartfren 70GB, 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdfgn70h7": {
+    "voucherId": "10948",
+    "harga": 58924,
+    "nama": "Kuota Nonstop 5G Smartfren 70GB, 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdfgn75h14": {
+    "voucherId": "10950",
+    "harga": 72483,
+    "nama": "Kuota Nonstop 5G Smartfren 75GB, 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smartunnon3": {
+    "voucherId": "5918",
+    "harga": 18999,
+    "nama": "3GB + Unlimited APK + Free Nelpon Sesama, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smartunnon2": {
+    "voucherId": "5903",
+    "harga": 12424,
+    "nama": "2GB + Unlimited APK  + Free Nelpon Sesama, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smtstp15b": {
+    "voucherId": "6655",
+    "harga": 18898,
+    "nama": "4GB + Unlimited APK + Free Nelpon Sesama, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smartunnon60": {
+    "voucherId": "5901",
+    "harga": 118549,
+    "nama": "Kuota 100GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdn10h1": {
+    "voucherId": "10744",
+    "harga": 7855,
+    "nama": "Kuota 10GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sip6n": {
+    "voucherId": "3587",
+    "harga": 38773,
+    "nama": "Kuota 10GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sun103": {
+    "voucherId": "10737",
+    "harga": 14389,
+    "nama": "Kuota 10GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sun107": {
+    "voucherId": "10738",
+    "harga": 18476,
+    "nama": "Kuota 10GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sun1214": {
+    "voucherId": "10739",
+    "harga": 25699,
+    "nama": "Kuota 12GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdun15": {
+    "voucherId": "3586",
+    "harga": 47349,
+    "nama": "Kuota 15GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdn16h28": {
+    "voucherId": "11104",
+    "harga": 46849,
+    "nama": "Kuota 16GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sun2014": {
+    "voucherId": "10740",
+    "harga": 31349,
+    "nama": "Kuota 20GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sun203": {
+    "voucherId": "10741",
+    "harga": 19374,
+    "nama": "Kuota 20GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdun24": {
+    "voucherId": "5900",
+    "harga": 55424,
+    "nama": "Kuota 24GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdn24h28": {
+    "voucherId": "11105",
+    "harga": 56069,
+    "nama": "Kuota 24GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdn2h10": {
+    "voucherId": "11099",
+    "harga": 12749,
+    "nama": "Kuota 2GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sipn30g30h": {
+    "voucherId": "5919",
+    "harga": 65149,
+    "nama": "Kuota 30GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdun30g7h": {
+    "voucherId": "3589",
+    "harga": 39048,
+    "nama": "Kuota 30GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smartunnon30": {
+    "voucherId": "5899",
+    "harga": 76843,
+    "nama": "Kuota 35GB, 30 hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdn3h14": {
+    "voucherId": "11100",
+    "harga": 19374,
+    "nama": "Kuota 3GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sun4028": {
+    "voucherId": "10742",
+    "harga": 73449,
+    "nama": "Kuota 40GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdn40h7": {
+    "voucherId": "11098",
+    "harga": 38411,
+    "nama": "Kuota 40GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdn4h14": {
+    "voucherId": "11101",
+    "harga": 19299,
+    "nama": "Kuota 4GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "slk5g30": {
+    "voucherId": "3588",
+    "harga": 31891,
+    "nama": "Kuota 5GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sns6a": {
+    "voucherId": "10870",
+    "harga": 40449,
+    "nama": "Kuota 6GB + Kuota Lokal 15GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "sun63": {
+    "voucherId": "10743",
+    "harga": 11424,
+    "nama": "Kuota 6GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smartunnon45": {
+    "voucherId": "5902",
+    "harga": 118548,
+    "nama": "Kuota 75GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.965Z"
+  },
+  "smdn7h28": {
+    "voucherId": "11103",
+    "harga": 31954,
+    "nama": "Kuota 7GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdn10h14": {
+    "voucherId": "11102",
+    "harga": 25439,
+    "nama": "Paket Data 10GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "slk10g14": {
+    "voucherId": "10479",
+    "harga": 29674,
+    "nama": "Smartfren Data 10GB, 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "slk15g10": {
+    "voucherId": "10503",
+    "harga": 36949,
+    "nama": "Smartfren Data 15GB, 10 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "slk25g14": {
+    "voucherId": "10480",
+    "harga": 39184,
+    "nama": "Smartfren Data 17GB, 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smni13": {
+    "voucherId": "6599",
+    "harga": 6098,
+    "nama": "Smartfren Data 1GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdtl10a": {
+    "voucherId": "3419",
+    "harga": 14799,
+    "nama": "Smartfren Data 2.5GB (1.5GB + 1GB Chat), 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdtl8": {
+    "voucherId": "3418",
+    "harga": 10590,
+    "nama": "Smartfren Data 2GB (1GB + 1GB Chat), 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smni23": {
+    "voucherId": "6600",
+    "harga": 9138,
+    "nama": "Smartfren Data 2GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "slk30g7": {
+    "voucherId": "10484",
+    "harga": 38398,
+    "nama": "Smartfren Data 30GB, 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smni35": {
+    "voucherId": "6615",
+    "harga": 13484,
+    "nama": "Smartfren Data 3GB, 5 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "slk40g14": {
+    "voucherId": "10481",
+    "harga": 73549,
+    "nama": "Smartfren Data 40GB, 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smnpi14": {
+    "voucherId": "7921",
+    "harga": 19183,
+    "nama": "Smartfren Data 4GB + Unlimited APK, 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "slk4g3": {
+    "voucherId": "10485",
+    "harga": 9273,
+    "nama": "Smartfren Data 4GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "slk5g14": {
+    "voucherId": "10482",
+    "harga": 20398,
+    "nama": "Smartfren Data 5GB, 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "slk6g7": {
+    "voucherId": "10483",
+    "harga": 15434,
+    "nama": "Smartfren Data 6GB, 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdrsm6": {
+    "voucherId": "10563",
+    "harga": 66649,
+    "nama": "Paket Data Singapura & Malaysia 1GB + 5GB Nasional, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdruh12": {
+    "voucherId": "10562",
+    "harga": 275000,
+    "nama": "Paket Data Umroh & Haji 12GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smduh15h30": {
+    "voucherId": "10956",
+    "harga": 452000,
+    "nama": "Paket Data Umroh & Haji 15GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smduh17h45": {
+    "voucherId": "10957",
+    "harga": 502000,
+    "nama": "Paket Data Umroh & Haji 17GB, 45 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdruh2": {
+    "voucherId": "10561",
+    "harga": 99800,
+    "nama": "Paket Data Umroh & Haji 2GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smduh7h14": {
+    "voucherId": "10955",
+    "harga": 277000,
+    "nama": "Paket Data Umroh & Haji 7GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "byrsmart": {
+    "voucherId": "11188",
+    "harga": 10000100,
+    "nama": "BYR DATA SMARTFREN SAKTI",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "listsmart": {
+    "voucherId": "11187",
+    "harga": 100000000,
+    "nama": "LIST DATA SMARTFREN SAKTI",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sds6": {
+    "voucherId": "6882",
+    "harga": 43879,
+    "nama": "Kuota 14GB Reguler / 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sds44": {
+    "voucherId": "6884",
+    "harga": 140345,
+    "nama": "Kuota 150GB / 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sds12": {
+    "voucherId": "6883",
+    "harga": 61899,
+    "nama": "Kuota 24GB / 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sds20": {
+    "voucherId": "6886",
+    "harga": 91404,
+    "nama": "Kuota 45GB / 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sds32": {
+    "voucherId": "6885",
+    "harga": 129450,
+    "nama": "Kuota 85GB / 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdfgu2sh28": {
+    "voucherId": "10915",
+    "harga": 104896,
+    "nama": "Unlimited 5G Smartfren (2.5GB/Hari), 28Hr",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdfgu3h14": {
+    "voucherId": "10913",
+    "harga": 62461,
+    "nama": "Unlimited 5G Smartfren (3GB/Hari), 14Hr",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdfgu4h7": {
+    "voucherId": "10880",
+    "harga": 34789,
+    "nama": "Unlimited 5G Smartfren (4GB/Hari), 7Hr",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdfgu5sh28": {
+    "voucherId": "10914",
+    "harga": 154490,
+    "nama": "Unlimited 5G Smartfren (5.5GB/Hari), 28Hr",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdfgu7h28": {
+    "voucherId": "10646",
+    "harga": 194415,
+    "nama": "Unlimited 5G Smartfren (7GB/Hari), 28Hr",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sipunl1p5": {
+    "voucherId": "11034",
+    "harga": 75805,
+    "nama": "Kuota Smartfren Unlimited (FUP 1.5GB/hari), 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul1g1": {
+    "voucherId": "9278",
+    "harga": 6543,
+    "nama": "Kuota Smartfren Unlimited (FUP 1GB/hari), 1 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdu4": {
+    "voucherId": "4429",
+    "harga": 31924,
+    "nama": "Kuota Smartfren Unlimited (FUP 1GB/hari), 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul1g28": {
+    "voucherId": "9279",
+    "harga": 64676,
+    "nama": "Kuota Smartfren Unlimited (FUP 1GB/hari), 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul1g3": {
+    "voucherId": "9280",
+    "harga": 11599,
+    "nama": "Kuota Smartfren Unlimited (FUP 1GB/hari), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdu20": {
+    "voucherId": "3090",
+    "harga": 16768,
+    "nama": "Kuota Smartfren Unlimited (FUP 1GB/hari), 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul2g1": {
+    "voucherId": "9281",
+    "harga": 10341,
+    "nama": "Kuota Smartfren Unlimited (FUP 2GB/hari), 1 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdsk14h2ul": {
+    "voucherId": "3593",
+    "harga": 46884,
+    "nama": "Kuota Smartfren Unlimited (FUP 2GB/hari), 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdu75": {
+    "voucherId": "3092",
+    "harga": 90388,
+    "nama": "Kuota Smartfren Unlimited (FUP 2GB/hari), 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul2g3": {
+    "voucherId": "9284",
+    "harga": 11598,
+    "nama": "Kuota Smartfren Unlimited (FUP 2GB/hari), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdsk7h2ul": {
+    "voucherId": "3594",
+    "harga": 23496,
+    "nama": "Kuota Smartfren Unlimited (FUP 2GB/hari), 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul3g1": {
+    "voucherId": "9285",
+    "harga": 12708,
+    "nama": "Kuota Smartfren Unlimited (FUP 3GB/hari), 1 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdu100": {
+    "voucherId": "6102",
+    "harga": 117398,
+    "nama": "Kuota Smartfren Unlimited (FUP 3GB/hari), 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul3g3": {
+    "voucherId": "9286",
+    "harga": 14438,
+    "nama": "Kuota Smartfren Unlimited (FUP 3GB/hari), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul3g7": {
+    "voucherId": "9287",
+    "harga": 29688,
+    "nama": "Kuota Smartfren Unlimited (FUP 3GB/hari), 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdu50": {
+    "voucherId": "3091",
+    "harga": 64499,
+    "nama": "Kuota Smartfren Unlimited (FUP 500MB/hari), 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul5g1": {
+    "voucherId": "9288",
+    "harga": 18153,
+    "nama": "Kuota Smartfren Unlimited (FUP 5GB/hari), 1 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdsk14h5ul": {
+    "voucherId": "3596",
+    "harga": 76359,
+    "nama": "Kuota Smartfren Unlimited (FUP 5GB/hari), 14 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul5g28": {
+    "voucherId": "9289",
+    "harga": 142724,
+    "nama": "Kuota Smartfren Unlimited (FUP 5GB/hari), 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul5g3": {
+    "voucherId": "9290",
+    "harga": 19428,
+    "nama": "Kuota Smartfren Unlimited (FUP 5GB/hari), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smdul5g7": {
+    "voucherId": "9291",
+    "harga": 38796,
+    "nama": "Kuota Smartfren Unlimited (FUP 5GB/hari), 7 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sfdpu50": {
+    "voucherId": "6059",
+    "harga": 64498,
+    "nama": "Kuota Smartfren Unlimited (FUP 700MB/hari), 28 Hari",
+    "operator": "Smartfren",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "smartnon30": {
+    "voucherId": "3595",
+    "harga": 76018,
+    "nama": "Smart 30GB + Unlimited (FUP 256kbps), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdro13": {
+    "voucherId": "10086",
+    "harga": 91899,
+    "nama": "Kuota 13GB, 30 Hari + Bonus Voucher",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdro3": {
+    "voucherId": "10084",
+    "harga": 32459,
+    "nama": "Kuota 3GB, 30 Hari + Bonus Voucher",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdro8": {
+    "voucherId": "10085",
+    "harga": 65519,
+    "nama": "Kuota 8GB, 30 Hari + Bonus Voucher",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "flextv3": {
+    "voucherId": "9911",
+    "harga": 21289,
+    "nama": "Kuota Nonton 3GB + Bonus 500 coin Flex TV, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "flextv6": {
+    "voucherId": "9912",
+    "harga": 42629,
+    "nama": "Kuota Nonton 6GB + Bonus 1.000 coin Flex TV, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "flextv6a": {
+    "voucherId": "9913",
+    "harga": 74514,
+    "nama": "Kuota Nonton 6GB + Bonus Flex TV VIP, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqib500": {
+    "voucherId": "9902",
+    "harga": 9599,
+    "nama": "Kuota Nonton 0.5GB + Bonus IQIYI Basic, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqip500": {
+    "voucherId": "9908",
+    "harga": 27849,
+    "nama": "Kuota Nonton 0.5GB + Bonus IQIYI Premium, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqis500": {
+    "voucherId": "9905",
+    "harga": 18249,
+    "nama": "Kuota Nonton 0.5GB + Bonus IQIYI Standar, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqib2": {
+    "voucherId": "9903",
+    "harga": 18249,
+    "nama": "Kuota Nonton 2GB + Bonus IQIYI Basic, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqip2": {
+    "voucherId": "9909",
+    "harga": 56649,
+    "nama": "Kuota Nonton 2GB + Bonus IQIYI Premium, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqis2": {
+    "voucherId": "9906",
+    "harga": 37449,
+    "nama": "Kuota Nonton 2GB + Bonus IQIYI Standar, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqib5": {
+    "voucherId": "9904",
+    "harga": 51849,
+    "nama": "Kuota Nonton 5GB + Bonus IQIYI Basic, 90 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqip5": {
+    "voucherId": "9910",
+    "harga": 161550,
+    "nama": "Kuota Nonton 5GB + Bonus IQIYI Premium, 90 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "iqis5": {
+    "voucherId": "9907",
+    "harga": 104550,
+    "nama": "Kuota Nonton 5GB + Bonus IQIYI Standar, 90 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrjjn7g28": {
+    "voucherId": "11146",
+    "harga": 34299,
+    "nama": "Paket Internet Jawa Tengah 7GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrjjn4g5": {
+    "voucherId": "11141",
+    "harga": 13149,
+    "nama": "Telkomsel Data 4GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrjjn5g3": {
+    "voucherId": "11142",
+    "harga": 13199,
+    "nama": "Telkomsel Data 5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrjjn5g7": {
+    "voucherId": "11143",
+    "harga": 19649,
+    "nama": "Telkomsel Data 5GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrjjn6g2": {
+    "voucherId": "11144",
+    "harga": 10750,
+    "nama": "Telkomsel Data 6GB, 2 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrjjn6g5": {
+    "voucherId": "11145",
+    "harga": 15149,
+    "nama": "Telkomsel Data 6GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrjjn7g7": {
+    "voucherId": "11147",
+    "harga": 22899,
+    "nama": "Telkomsel Data 7GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsl1": {
+    "voucherId": "9157",
+    "harga": 7091,
+    "nama": "(Baru) Telkomsel Data 1GB Up To 5GB / 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsl2": {
+    "voucherId": "9158",
+    "harga": 8392,
+    "nama": "(Baru) Telkomsel Data 2GB Up To 6GB / 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsl3": {
+    "voucherId": "9159",
+    "harga": 10213,
+    "nama": "(Baru) Telkomsel Data 4GB Up To 8GB / 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdslun": {
+    "voucherId": "9168",
+    "harga": 12250,
+    "nama": "(Baru) Telkomsel Data Unlimited / 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsru20": {
+    "voucherId": "8453",
+    "harga": 47999,
+    "nama": "(Promo) Telkomsel Data 20GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmini151": {
+    "voucherId": "4658",
+    "harga": 19309,
+    "nama": "Telkomsel Data 1.5GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmn153": {
+    "voucherId": "6933",
+    "harga": 9638,
+    "nama": "Telkomsel Data 1.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh157h": {
+    "voucherId": "10452",
+    "harga": 13795,
+    "nama": "Telkomsel Data 1.5GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh110h": {
+    "voucherId": "10435",
+    "harga": 45374,
+    "nama": "Telkomsel Data 10GB, 10 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm10": {
+    "voucherId": "1572",
+    "harga": 40674,
+    "nama": "Telkomsel Data 10GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh105h": {
+    "voucherId": "10447",
+    "harga": 44774,
+    "nama": "Telkomsel Data 10GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm107": {
+    "voucherId": "1567",
+    "harga": 42224,
+    "nama": "Telkomsel Data 10GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tfm13": {
+    "voucherId": "10004",
+    "harga": 30124,
+    "nama": "Telkomsel Data 13GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmn153h": {
+    "voucherId": "6938",
+    "harga": 47104,
+    "nama": "Telkomsel Data 15GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmini157": {
+    "voucherId": "6944",
+    "harga": 50269,
+    "nama": "Telkomsel Data 15GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmini173": {
+    "voucherId": "6939",
+    "harga": 48374,
+    "nama": "Telkomsel Data 17GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdh13": {
+    "voucherId": "8130",
+    "harga": 65849,
+    "nama": "Telkomsel Data 17GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdm1": {
+    "voucherId": "4323",
+    "harga": 11502,
+    "nama": "Telkomsel Data 1GB -  2GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm1": {
+    "voucherId": "1569",
+    "harga": 8708,
+    "nama": "Telkomsel Data 1GB - 1.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmini11": {
+    "voucherId": "4657",
+    "harga": 5832,
+    "nama": "Telkomsel Data 1GB, 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh115h": {
+    "voucherId": "10442",
+    "harga": 12024,
+    "nama": "Telkomsel Data 1GB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselminl13": {
+    "voucherId": "6932",
+    "harga": 8109,
+    "nama": "Telkomsel Data 1GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh15h": {
+    "voucherId": "10448",
+    "harga": 11379,
+    "nama": "Telkomsel Data 1GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm17": {
+    "voucherId": "4322",
+    "harga": 9864,
+    "nama": "Telkomsel Data 1GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselminl253": {
+    "voucherId": "6934",
+    "harga": 28200,
+    "nama": "Telkomsel Data 2.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tms253": {
+    "voucherId": "10434",
+    "harga": 11099,
+    "nama": "Telkomsel Data 2.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh253h": {
+    "voucherId": "10431",
+    "harga": 11874,
+    "nama": "Telkomsel Data 2.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "flash255": {
+    "voucherId": "8992",
+    "harga": 11198,
+    "nama": "Telkomsel Data 2.5GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh257h": {
+    "voucherId": "10453",
+    "harga": 15249,
+    "nama": "Telkomsel Data 2.5GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh203h": {
+    "voucherId": "10444",
+    "harga": 74894,
+    "nama": "Telkomsel Data 20GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tgmp20c": {
+    "voucherId": "4664",
+    "harga": 66199,
+    "nama": "Telkomsel Data 20GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "apm22gb3": {
+    "voucherId": "10002",
+    "harga": 65169,
+    "nama": "Telkomsel Data 22GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tgmp25b": {
+    "voucherId": "10107",
+    "harga": 61449,
+    "nama": "Telkomsel Data 25GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh21h": {
+    "voucherId": "10432",
+    "harga": 8247,
+    "nama": "Telkomsel Data 2GB, 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh210h": {
+    "voucherId": "10436",
+    "harga": 20974,
+    "nama": "Telkomsel Data 2GB, 10 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmnt214": {
+    "voucherId": "6945",
+    "harga": 20059,
+    "nama": "Telkomsel Data 2GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm2": {
+    "voucherId": "1570",
+    "harga": 9999,
+    "nama": "Telkomsel Data 2GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh25h": {
+    "voucherId": "10449",
+    "harga": 11774,
+    "nama": "Telkomsel Data 2GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmini27": {
+    "voucherId": "5822",
+    "harga": 15299,
+    "nama": "Telkomsel Data 2GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmini351": {
+    "voucherId": "6930",
+    "harga": 13039,
+    "nama": "Telkomsel Data 3.5GB, 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmn353": {
+    "voucherId": "6935",
+    "harga": 18899,
+    "nama": "Telkomsel Data 3.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh357h": {
+    "voucherId": "10454",
+    "harga": 26174,
+    "nama": "Telkomsel Data 3.5GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselrgm307": {
+    "voucherId": "4663",
+    "harga": 77199,
+    "nama": "Telkomsel Data 30GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmint31": {
+    "voucherId": "6929",
+    "harga": 13100,
+    "nama": "Telkomsel Data 3GB, 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh310h": {
+    "voucherId": "10438",
+    "harga": 21224,
+    "nama": "Telkomsel Data 3GB, 10 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh314h": {
+    "voucherId": "10437",
+    "harga": 21174,
+    "nama": "Telkomsel Data 3GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh315h": {
+    "voucherId": "10443",
+    "harga": 20199,
+    "nama": "Telkomsel Data 3GB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm3": {
+    "voucherId": "4324",
+    "harga": 12899,
+    "nama": "Telkomsel Data 3GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sda3g5na": {
+    "voucherId": "8989",
+    "harga": 12449,
+    "nama": "Telkomsel Data 3GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm37": {
+    "voucherId": "4325",
+    "harga": 16097,
+    "nama": "Telkomsel Data 3GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "apm40gb7": {
+    "voucherId": "10003",
+    "harga": 91000,
+    "nama": "Telkomsel Data 40GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmint41": {
+    "voucherId": "6931",
+    "harga": 10502,
+    "nama": "Telkomsel Data 4GB, 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh43h": {
+    "voucherId": "10445",
+    "harga": 21219,
+    "nama": "Telkomsel Data 4GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tfm4": {
+    "voucherId": "10433",
+    "harga": 26049,
+    "nama": "Telkomsel Data 4GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tgmp5b": {
+    "voucherId": "10088",
+    "harga": 23389,
+    "nama": "Telkomsel Data 5.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselrgm500": {
+    "voucherId": "4661",
+    "harga": 5600,
+    "nama": "Telkomsel Data 500MB, 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh5003h": {
+    "voucherId": "10446",
+    "harga": 6474,
+    "nama": "Telkomsel Data 500MB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselrgm5003": {
+    "voucherId": "4660",
+    "harga": 15149,
+    "nama": "Telkomsel Data 500MB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselrgm5007": {
+    "voucherId": "4659",
+    "harga": 6200,
+    "nama": "Telkomsel Data 500MB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselrgm51": {
+    "voucherId": "4662",
+    "harga": 10355,
+    "nama": "Telkomsel Data 5GB, 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh514h": {
+    "voucherId": "10439",
+    "harga": 31549,
+    "nama": "Telkomsel Data 5GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm5": {
+    "voucherId": "1571",
+    "harga": 19924,
+    "nama": "Telkomsel Data 5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh55h": {
+    "voucherId": "10450",
+    "harga": 19041,
+    "nama": "Telkomsel Data 5GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdkm57": {
+    "voucherId": "1568",
+    "harga": 24397,
+    "nama": "Telkomsel Data 5GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "apm6gb1": {
+    "voucherId": "10005",
+    "harga": 10455,
+    "nama": "Telkomsel Data 6GB, 1 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh614h": {
+    "voucherId": "10440",
+    "harga": 36174,
+    "nama": "Telkomsel Data 6GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh67h": {
+    "voucherId": "10455",
+    "harga": 26141,
+    "nama": "Telkomsel Data 6GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh714h": {
+    "voucherId": "10441",
+    "harga": 36274,
+    "nama": "Telkomsel Data 7GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmins73": {
+    "voucherId": "6936",
+    "harga": 25875,
+    "nama": "Telkomsel Data 7GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "osdh75h": {
+    "voucherId": "10451",
+    "harga": 26269,
+    "nama": "Telkomsel Data 7GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sda7g7na": {
+    "voucherId": "8990",
+    "harga": 25297,
+    "nama": "Telkomsel Data 7GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tgmp80c": {
+    "voucherId": "10108",
+    "harga": 100449,
+    "nama": "Telkomsel Data 80GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselmins83": {
+    "voucherId": "6937",
+    "harga": 27449,
+    "nama": "Telkomsel Data 8GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tfm9": {
+    "voucherId": "10412",
+    "harga": 25054,
+    "nama": "Telkomsel Data 9GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar15": {
+    "voucherId": "11014",
+    "harga": 10600,
+    "nama": "Telkomsel Data 1GB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar13": {
+    "voucherId": "11012",
+    "harga": 10249,
+    "nama": "Telkomsel Data 1GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar17": {
+    "voucherId": "11013",
+    "harga": 10100,
+    "nama": "Telkomsel Data 1GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar23": {
+    "voucherId": "11015",
+    "harga": 11149,
+    "nama": "Telkomsel Data 2.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar25": {
+    "voucherId": "11016",
+    "harga": 12149,
+    "nama": "Telkomsel Data 2.5GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar27": {
+    "voucherId": "11017",
+    "harga": 16199,
+    "nama": "Telkomsel Data 2GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar215": {
+    "voucherId": "11019",
+    "harga": 20199,
+    "nama": "Telkomsel Data 3GB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar330": {
+    "voucherId": "11020",
+    "harga": 25249,
+    "nama": "Telkomsel Data 3GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsbar37": {
+    "voucherId": "11018",
+    "harga": 18199,
+    "nama": "Telkomsel Data 3GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdjsl3g7": {
+    "voucherId": "11023",
+    "harga": 21849,
+    "nama": "(Zona 1) Telkomsel Data 5GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdjsl9g5": {
+    "voucherId": "11236",
+    "harga": 24249,
+    "nama": "(Zona 1) Telkomsel Data 9GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel15": {
+    "voucherId": "11005",
+    "harga": 10600,
+    "nama": "Telkomsel Data 1GB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel13": {
+    "voucherId": "11003",
+    "harga": 10249,
+    "nama": "Telkomsel Data 1GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel17": {
+    "voucherId": "11004",
+    "harga": 10100,
+    "nama": "Telkomsel Data 1GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel23": {
+    "voucherId": "11006",
+    "harga": 11149,
+    "nama": "Telkomsel Data 2.5GB,  3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel25": {
+    "voucherId": "11007",
+    "harga": 12149,
+    "nama": "Telkomsel Data 2.5GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel27": {
+    "voucherId": "11008",
+    "harga": 16199,
+    "nama": "Telkomsel Data 2GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel215": {
+    "voucherId": "11010",
+    "harga": 20199,
+    "nama": "Telkomsel Data 3GB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel330": {
+    "voucherId": "11011",
+    "harga": 25249,
+    "nama": "Telkomsel Data 3GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrssel37": {
+    "voucherId": "11009",
+    "harga": 18199,
+    "nama": "Telkomsel Data 3GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdjsl5g2": {
+    "voucherId": "11235",
+    "harga": 11399,
+    "nama": "Telkomsel Data 5GB, 2 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut15": {
+    "voucherId": "10996",
+    "harga": 10649,
+    "nama": "Telkomsel Data 1GB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut13": {
+    "voucherId": "10994",
+    "harga": 8754,
+    "nama": "Telkomsel Data 1GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut17": {
+    "voucherId": "10995",
+    "harga": 10149,
+    "nama": "Telkomsel Data 1GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut23": {
+    "voucherId": "10997",
+    "harga": 11149,
+    "nama": "Telkomsel Data 2.5GB, 3 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut25": {
+    "voucherId": "10998",
+    "harga": 12149,
+    "nama": "Telkomsel Data 2.5GB, 5 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut27": {
+    "voucherId": "10999",
+    "harga": 16199,
+    "nama": "Telkomsel Data 2GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut215": {
+    "voucherId": "11001",
+    "harga": 20199,
+    "nama": "Telkomsel Data 3GB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut330": {
+    "voucherId": "11002",
+    "harga": 25249,
+    "nama": "Telkomsel Data 3GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dtrsmut37": {
+    "voucherId": "11000",
+    "harga": 18199,
+    "nama": "Telkomsel Data 3GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg130g30": {
+    "voucherId": "10891",
+    "harga": 187000,
+    "nama": "(Extra) Telkomsel Data Orbit 130GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg5g14": {
+    "voucherId": "10898",
+    "harga": 34759,
+    "nama": "(Extra) Telkomsel Data Orbit 15GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg20g90": {
+    "voucherId": "10892",
+    "harga": 76494,
+    "nama": "(Extra) Telkomsel Data Orbit 20GB, 90 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg25g14": {
+    "voucherId": "10893",
+    "harga": 42299,
+    "nama": "(Extra) Telkomsel Data Orbit 25GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg30g30": {
+    "voucherId": "10894",
+    "harga": 54024,
+    "nama": "(Extra) Telkomsel Data Orbit 30GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg40g30": {
+    "voucherId": "10895",
+    "harga": 75099,
+    "nama": "(Extra) Telkomsel Data Orbit 40GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg45g30": {
+    "voucherId": "10896",
+    "harga": 80214,
+    "nama": "(Extra) Telkomsel Data Orbit 45GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg50g30": {
+    "voucherId": "10897",
+    "harga": 85794,
+    "nama": "(Extra) Telkomsel Data Orbit 50GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg60g30": {
+    "voucherId": "10899",
+    "harga": 100209,
+    "nama": "(Extra) Telkomsel Data Orbit 60GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg65g30": {
+    "voucherId": "10900",
+    "harga": 109810,
+    "nama": "(Extra) Telkomsel Data Orbit 65GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "togg75g30": {
+    "voucherId": "10901",
+    "harga": 119110,
+    "nama": "(Extra) Telkomsel Data Orbit 75GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg100g14": {
+    "voucherId": "10881",
+    "harga": 147010,
+    "nama": "Telkomsel Data Orbit 100GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg125g30": {
+    "voucherId": "10882",
+    "harga": 170260,
+    "nama": "Telkomsel Data Orbit 125GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg15g7": {
+    "voucherId": "10883",
+    "harga": 33829,
+    "nama": "Telkomsel Data Orbit 15GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg175g30": {
+    "voucherId": "10884",
+    "harga": 244195,
+    "nama": "Telkomsel Data Orbit 175GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg20g90": {
+    "voucherId": "10885",
+    "harga": 96024,
+    "nama": "Telkomsel Data Orbit 20GB, 90 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg25g14": {
+    "voucherId": "10886",
+    "harga": 53094,
+    "nama": "Telkomsel Data Orbit 25GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg25g7": {
+    "voucherId": "10887",
+    "harga": 48859,
+    "nama": "Telkomsel Data Orbit 25GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg280g90": {
+    "voucherId": "10888",
+    "harga": 384160,
+    "nama": "Telkomsel Data Orbit 280GB, 90 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg300g30": {
+    "voucherId": "10889",
+    "harga": 388810,
+    "nama": "Telkomsel Data Orbit 300GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg45g30": {
+    "voucherId": "11024",
+    "harga": 105160,
+    "nama": "Telkomsel Data Orbit 45GB + Kuota Nonton 30GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg50g14": {
+    "voucherId": "10890",
+    "harga": 100209,
+    "nama": "Telkomsel Data Orbit 50GB, 14 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "todg90g30": {
+    "voucherId": "11025",
+    "harga": 128410,
+    "nama": "Telkomsel Data Orbit 90GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrat10": {
+    "voucherId": "10156",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Asia Tenggara 10GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrau270": {
+    "voucherId": "10210",
+    "harga": 628000,
+    "nama": "Internet RoaMAX Australia  New Zealand 270GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrau100": {
+    "voucherId": "10206",
+    "harga": 314500,
+    "nama": "Internet RoaMAX Australia  Selandia Baru 100GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrau220": {
+    "voucherId": "10208",
+    "harga": 547250,
+    "nama": "Internet RoaMAX Australia  Selandia Baru 220GB, 20Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrau180": {
+    "voucherId": "10209",
+    "harga": 476000,
+    "nama": "Internet RoaMAX Australia - New Zealand 180GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrau30": {
+    "voucherId": "10204",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Australia - New Zealand 30GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrau140": {
+    "voucherId": "10207",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Australia - Selandia Baru 140GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrau50": {
+    "voucherId": "10205",
+    "harga": 262250,
+    "nama": "Internet RoaMAX Australia - Selandia Baru 50GB, 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrch15": {
+    "voucherId": "10211",
+    "harga": 210000,
+    "nama": "Internet RoaMAX China 15GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrch30": {
+    "voucherId": "10212",
+    "harga": 314500,
+    "nama": "Internet RoaMAX China 30GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrch40": {
+    "voucherId": "10213",
+    "harga": 366750,
+    "nama": "Internet RoaMAX China 40GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrch55": {
+    "voucherId": "10214",
+    "harga": 476000,
+    "nama": "Internet RoaMAX China 55GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrch70": {
+    "voucherId": "10215",
+    "harga": 547250,
+    "nama": "Internet RoaMAX China 70GB, 20Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrch85": {
+    "voucherId": "10216",
+    "harga": 628000,
+    "nama": "Internet RoaMAX China 85GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrph15": {
+    "voucherId": "10183",
+    "harga": 115000,
+    "nama": "Internet RoaMAX Filipina 15GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrph50": {
+    "voucherId": "10184",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Filipina 50GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrph75": {
+    "voucherId": "10185",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Filipina 75GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrhk100": {
+    "voucherId": "10526",
+    "harga": 314500,
+    "nama": "Internet RoaMAX Hongkong & Macau 100GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrhk150": {
+    "voucherId": "10527",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Hongkong & Macau 150GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrhk15": {
+    "voucherId": "10188",
+    "harga": 115000,
+    "nama": "Internet RoaMAX Hongkong & Macau 15GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrhk50": {
+    "voucherId": "10177",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Hongkong & Macau 50GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrhk75": {
+    "voucherId": "10525",
+    "harga": 262250,
+    "nama": "Internet RoaMAX Hongkong & Macau 75GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrjp100": {
+    "voucherId": "10202",
+    "harga": 476000,
+    "nama": "Internet RoaMAX Jepang 100GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrjp150": {
+    "voucherId": "10203",
+    "harga": 628000,
+    "nama": "Internet RoaMAX Jepang 150GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrjp15": {
+    "voucherId": "10199",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Jepang 15GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrjp50": {
+    "voucherId": "10200",
+    "harga": 314500,
+    "nama": "Internet RoaMAX Jepang 50GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrjp75": {
+    "voucherId": "10201",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Jepang 75GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrks100": {
+    "voucherId": "10197",
+    "harga": 476000,
+    "nama": "Internet RoaMAX Korea Selatan 100GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrks10": {
+    "voucherId": "10194",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Korea Selatan 10GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrks150": {
+    "voucherId": "10198",
+    "harga": 628000,
+    "nama": "Internet RoaMAX Korea Selatan 150GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrks50": {
+    "voucherId": "10195",
+    "harga": 314500,
+    "nama": "Internet RoaMAX Korea Selatan 50GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrks75": {
+    "voucherId": "10196",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Korea Selatan 75GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrmy100": {
+    "voucherId": "10189",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Malaysia 100GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrmy10": {
+    "voucherId": "10244",
+    "harga": 110250,
+    "nama": "Internet RoaMAX Malaysia 10GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrmy140": {
+    "voucherId": "10190",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Malaysia 140GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrmy180": {
+    "voucherId": "10191",
+    "harga": 262250,
+    "nama": "Internet RoaMAX Malaysia 180GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrmy220": {
+    "voucherId": "10192",
+    "harga": 314500,
+    "nama": "Internet RoaMAX Malaysia 220GB, 20Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrmy270": {
+    "voucherId": "10193",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Malaysia 270GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrph100": {
+    "voucherId": "10186",
+    "harga": 262250,
+    "nama": "Internet RoaMAX Philippines 100GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrph150": {
+    "voucherId": "10187",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Philippines 150GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrsg100": {
+    "voucherId": "10178",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Singapura 100GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrsg10": {
+    "voucherId": "10243",
+    "harga": 110250,
+    "nama": "Internet RoaMAX Singapura 10GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrsg140": {
+    "voucherId": "10180",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Singapura 140GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrsg180": {
+    "voucherId": "10179",
+    "harga": 261250,
+    "nama": "Internet RoaMAX Singapura 180GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrsg220": {
+    "voucherId": "10181",
+    "harga": 314500,
+    "nama": "Internet RoaMAX Singapura 220GB, 20Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrsg270": {
+    "voucherId": "10182",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Singapura 270GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtw100": {
+    "voucherId": "10174",
+    "harga": 262250,
+    "nama": "Internet RoaMAX Taiwan 100GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtw125": {
+    "voucherId": "10175",
+    "harga": 314500,
+    "nama": "Internet RoaMAX Taiwan 125GB, 20Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtw150": {
+    "voucherId": "10176",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Taiwan 150GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtw15": {
+    "voucherId": "10171",
+    "harga": 115000,
+    "nama": "Internet RoaMAX Taiwan 15GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtw50": {
+    "voucherId": "10172",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Taiwan 50GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtw75": {
+    "voucherId": "10173",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Taiwan 75GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrth100": {
+    "voucherId": "10169",
+    "harga": 262250,
+    "nama": "Internet RoaMAX Thailand 100GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrth150": {
+    "voucherId": "10170",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Thailand 150GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrth15": {
+    "voucherId": "10166",
+    "harga": 115000,
+    "nama": "Internet RoaMAX Thailand 15GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrth50": {
+    "voucherId": "10167",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Thailand 50GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrth75": {
+    "voucherId": "10168",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Thailand 75GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtr20": {
+    "voucherId": "10163",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Turki 20GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtr35": {
+    "voucherId": "10164",
+    "harga": 314500,
+    "nama": "Internet RoaMAX Turki 35GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtr50": {
+    "voucherId": "10165",
+    "harga": 428500,
+    "nama": "Internet RoaMAX Turki 50GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrtr5": {
+    "voucherId": "10162",
+    "harga": 115000,
+    "nama": "Internet RoaMAX Turki 5GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrvi100": {
+    "voucherId": "10160",
+    "harga": 262250,
+    "nama": "Internet RoaMAX Vietnam 100GB, 15Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrvi150": {
+    "voucherId": "10161",
+    "harga": 366750,
+    "nama": "Internet RoaMAX Vietnam 150GB, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrvi15": {
+    "voucherId": "10157",
+    "harga": 115000,
+    "nama": "Internet RoaMAX Vietnam 15GB, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrvi50": {
+    "voucherId": "10158",
+    "harga": 167250,
+    "nama": "Internet RoaMAX Vietnam 50GB, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsrvi75": {
+    "voucherId": "10159",
+    "harga": 214750,
+    "nama": "Internet RoaMAX Vietnam 75GB, 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn200": {
+    "voucherId": "7937",
+    "harga": 193740,
+    "nama": "Telkomsel Super Seru Hingga 110GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn250": {
+    "voucherId": "7939",
+    "harga": 240990,
+    "nama": "Telkomsel Super Seru Hingga 135GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn60": {
+    "voucherId": "7936",
+    "harga": 287830,
+    "nama": "Telkomsel Super Seru Hingga 175GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn65": {
+    "voucherId": "7935",
+    "harga": 63429,
+    "nama": "Telkomsel Super Seru Hingga 22GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn75": {
+    "voucherId": "7933",
+    "harga": 75949,
+    "nama": "Telkomsel Super Seru Hingga 27GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn80": {
+    "voucherId": "7934",
+    "harga": 77519,
+    "nama": "Telkomsel Super Seru Hingga 30GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn100": {
+    "voucherId": "7932",
+    "harga": 96279,
+    "nama": "Telkomsel Super Seru Hingga 42GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn110": {
+    "voucherId": "7931",
+    "harga": 104570,
+    "nama": "Telkomsel Super Seru Hingga 47GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn125": {
+    "voucherId": "7929",
+    "harga": 118710,
+    "nama": "Telkomsel Super Seru Hingga 55GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn150": {
+    "voucherId": "7930",
+    "harga": 146900,
+    "nama": "Telkomsel Super Seru Hingga 75GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdsn180": {
+    "voucherId": "7938",
+    "harga": 174990,
+    "nama": "Telkomsel Super Seru Hingga 90GB, 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsfull1030": {
+    "voucherId": "9444",
+    "harga": 51577,
+    "nama": "Telkomsel Data 10GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsfull1130": {
+    "voucherId": "9445",
+    "harga": 62840,
+    "nama": "Telkomsel Data 11GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsfull1230": {
+    "voucherId": "9446",
+    "harga": 68227,
+    "nama": "Telkomsel Data 12GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsfull1530": {
+    "voucherId": "9447",
+    "harga": 62446,
+    "nama": "Telkomsel Data 15GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdfl16": {
+    "voucherId": "9882",
+    "harga": 78124,
+    "nama": "Telkomsel Data 16GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdfl17": {
+    "voucherId": "9883",
+    "harga": 77199,
+    "nama": "Telkomsel Data 17GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "apm23gb": {
+    "voucherId": "10006",
+    "harga": 140941,
+    "nama": "Telkomsel Data 23GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsfull330": {
+    "voucherId": "9443",
+    "harga": 21208,
+    "nama": "Telkomsel Data 3GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdf4": {
+    "voucherId": "9434",
+    "harga": 27685,
+    "nama": "Telkomsel Data 4GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdf5": {
+    "voucherId": "9435",
+    "harga": 31470,
+    "nama": "Telkomsel Data 5GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdf6": {
+    "voucherId": "9436",
+    "harga": 40310,
+    "nama": "Telkomsel Data 6GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdf7": {
+    "voucherId": "9437",
+    "harga": 49324,
+    "nama": "Telkomsel Data 7GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdf8": {
+    "voucherId": "9438",
+    "harga": 50592,
+    "nama": "Telkomsel Data 8GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdf9": {
+    "voucherId": "9439",
+    "harga": 52244,
+    "nama": "Telkomsel Data 9GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdh1k": {
+    "voucherId": "6529",
+    "harga": 23624,
+    "nama": "Telkomsel Data 1.5GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsdfls100": {
+    "voucherId": "7997",
+    "harga": 187020,
+    "nama": "Telkomsel Data 100GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselflmk100": {
+    "voucherId": "6919",
+    "harga": 3195,
+    "nama": "Telkomsel Data 100MB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdg10": {
+    "voucherId": "6795",
+    "harga": 53294,
+    "nama": "Telkomsel Data 10GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk11": {
+    "voucherId": "4676",
+    "harga": 53475,
+    "nama": "Telkomsel Data 11GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashs12": {
+    "voucherId": "6924",
+    "harga": 55125,
+    "nama": "Telkomsel Data 12GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sda14g30na": {
+    "voucherId": "9079",
+    "harga": 77799,
+    "nama": "Telkomsel Data 14GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdmfn15": {
+    "voucherId": "4678",
+    "harga": 60469,
+    "nama": "Telkomsel Data 15GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdfs16": {
+    "voucherId": "10245",
+    "harga": 74426,
+    "nama": "Telkomsel Data 16GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dumkm17": {
+    "voucherId": "9148",
+    "harga": 85200,
+    "nama": "Telkomsel Data 17GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdfs18": {
+    "voucherId": "10246",
+    "harga": 81199,
+    "nama": "Telkomsel Data 18GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tms115": {
+    "voucherId": "5774",
+    "harga": 10649,
+    "nama": "Telkomsel Data 1GB / 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk1": {
+    "voucherId": "3740",
+    "harga": 11249,
+    "nama": "Telkomsel Data 1GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselflmt17": {
+    "voucherId": "6920",
+    "harga": 9692,
+    "nama": "Telkomsel Data 1GB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdh20": {
+    "voucherId": "10087",
+    "harga": 74200,
+    "nama": "Telkomsel Data 20GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "flash22000": {
+    "voucherId": "8449",
+    "harga": 83944,
+    "nama": "Telkomsel Data 22GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk250": {
+    "voucherId": "3745",
+    "harga": 4730,
+    "nama": "Telkomsel Data 250MB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdg25": {
+    "voucherId": "6796",
+    "harga": 87944,
+    "nama": "Telkomsel Data 25GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dumkm26": {
+    "voucherId": "9149",
+    "harga": 115000,
+    "nama": "Telkomsel Data 26GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "flash27000": {
+    "voucherId": "8450",
+    "harga": 109026,
+    "nama": "Telkomsel Data 27GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdfs28": {
+    "voucherId": "10247",
+    "harga": 112550,
+    "nama": "Telkomsel Data 28GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tms215": {
+    "voucherId": "11088",
+    "harga": 19849,
+    "nama": "Telkomsel Data 2GB / 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk2": {
+    "voucherId": "3741",
+    "harga": 19572,
+    "nama": "Telkomsel Data 2GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselflmt27": {
+    "voucherId": "6921",
+    "harga": 15359,
+    "nama": "Telkomsel Data 2GB / 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk30": {
+    "voucherId": "4679",
+    "harga": 88994,
+    "nama": "Telkomsel Data 30GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dumkm34": {
+    "voucherId": "9150",
+    "harga": 130000,
+    "nama": "Telkomsel Data 34GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk35": {
+    "voucherId": "4680",
+    "harga": 121000,
+    "nama": "Telkomsel Data 35GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk3": {
+    "voucherId": "4672",
+    "harga": 19789,
+    "nama": "Telkomsel Data 3GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdgs15": {
+    "voucherId": "6804",
+    "harga": 155010,
+    "nama": "Telkomsel Data 40GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sdg45": {
+    "voucherId": "6797",
+    "harga": 125000,
+    "nama": "Telkomsel Data 45GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdfs49": {
+    "voucherId": "10248",
+    "harga": 166000,
+    "nama": "Telkomsel Data 49GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk4": {
+    "voucherId": "4673",
+    "harga": 25501,
+    "nama": "Telkomsel Data 4GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "dumkm55": {
+    "voucherId": "9147",
+    "harga": 42000,
+    "nama": "Telkomsel Data 5.5GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk50015": {
+    "voucherId": "6922",
+    "harga": 6254,
+    "nama": "Telkomsel Data 500MB, 15 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk05": {
+    "voucherId": "3730",
+    "harga": 5904,
+    "nama": "Telkomsel Data 500MB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflsh50": {
+    "voucherId": "6925",
+    "harga": 111000,
+    "nama": "Telkomsel Data 50GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tselflmx50": {
+    "voucherId": "6918",
+    "harga": 1923,
+    "nama": "Telkomsel Data 50MB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdfs57": {
+    "voucherId": "10249",
+    "harga": 176000,
+    "nama": "Telkomsel Data 57GB  28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk5": {
+    "voucherId": "4674",
+    "harga": 31973,
+    "nama": "Telkomsel Data 5GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdmfn60": {
+    "voucherId": "8007",
+    "harga": 185000,
+    "nama": "Telkomsel Data 60GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk6": {
+    "voucherId": "5772",
+    "harga": 36325,
+    "nama": "Telkomsel Data 6GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "sda70g30na": {
+    "voucherId": "9083",
+    "harga": 169525,
+    "nama": "Telkomsel Data 70GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdbu72": {
+    "voucherId": "9151",
+    "harga": 215000,
+    "nama": "Telkomsel Data 72GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk075": {
+    "voucherId": "3731",
+    "harga": 9759,
+    "nama": "Telkomsel Data 750MB, 7 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsdfls75": {
+    "voucherId": "7996",
+    "harga": 166175,
+    "nama": "Telkomsel Data 75GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk7": {
+    "voucherId": "5773",
+    "harga": 35874,
+    "nama": "Telkomsel Data 7GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdmfn80": {
+    "voucherId": "8788",
+    "harga": 191000,
+    "nama": "Telkomsel Data 80GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tflashk8": {
+    "voucherId": "4675",
+    "harga": 43099,
+    "nama": "Telkomsel Data 8GB / 28 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdmfn90": {
+    "voucherId": "8789",
+    "harga": 211000,
+    "nama": "Telkomsel Data 90GB / 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsdfrv18": {
+    "voucherId": "8965",
+    "harga": 61500,
+    "nama": "Telkomsel Revamp 18GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsdfrv22": {
+    "voucherId": "8966",
+    "harga": 84900,
+    "nama": "Telkomsel Revamp 22GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tsdfrv27": {
+    "voucherId": "8967",
+    "harga": 109025,
+    "nama": "Telkomsel Revamp 27GB, 30 Hari",
+    "operator": "Telkomsel",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "xlxv250": {
+    "voucherId": "9921",
+    "harga": 1799,
+    "nama": "Kuota Nonton 250MB + Bonus Vidio Platinum Mobile, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "xlxv6": {
+    "voucherId": "9922",
+    "harga": 81099,
+    "nama": "Kuota Nonton 5GB + Bonus Vidio Diamond All Screen, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "omnicek": {
+    "voucherId": "10016",
+    "harga": 0,
+    "nama": "OMNICEK",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "taon1": {
+    "voucherId": "482",
+    "harga": 23330,
+    "nama": "Kuota 1.5GB (Mengikuti Masa Aktif Kartu)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdh15h1": {
+    "voucherId": "3626",
+    "harga": 6395,
+    "nama": "Kuota 1.5GB Nasional, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdamp2": {
+    "voucherId": "3326",
+    "harga": 8950,
+    "nama": "Kuota 1.5GB Nasional, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "taon16": {
+    "voucherId": "4427",
+    "harga": 57473,
+    "nama": "Kuota 12GB (Mengikuti Masa Aktif Kartu) + Bonus Lokal 4GB",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tri1514": {
+    "voucherId": "8103",
+    "harga": 6305,
+    "nama": "Kuota 1GB Nasional, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tdamp1": {
+    "voucherId": "3325",
+    "harga": 6443,
+    "nama": "Kuota 1GB Nasional, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "taon2": {
+    "voucherId": "483",
+    "harga": 23647,
+    "nama": "Kuota 2.5GB (Mengikuti Masa Aktif Kartu) + Bonus Lokal 0.5GB",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "trhs2s": {
+    "voucherId": "5776",
+    "harga": 7050,
+    "nama": "Kuota 2.5GB Nasional, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tribuln2": {
+    "voucherId": "8306",
+    "harga": 17568,
+    "nama": "Kuota 2GB Nasional, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "taon3": {
+    "voucherId": "484",
+    "harga": 27899,
+    "nama": "Kuota 3.5GB (Mengikuti Masa Aktif Kartu) + Bonus Lokal 1GB",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "thaon300": {
+    "voucherId": "6502",
+    "harga": 730075,
+    "nama": "Kuota 300GB (Mengikuti Masa Aktif Kartu)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "taon50": {
+    "voucherId": "4614",
+    "harga": 108599,
+    "nama": "Kuota 40GB (Mengikuti Masa Aktif Kartu) + Bonus Lokal 12GB",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "taon6": {
+    "voucherId": "485",
+    "harga": 31112,
+    "nama": "Kuota 6GB (Mengikuti Masa Aktif Kartu) + Bonus Lokal 2GB",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "trda6": {
+    "voucherId": "486",
+    "harga": 72024,
+    "nama": "Kuota 6GB (Mengikuti Masa Aktif Kartu) + Unlimited (01:00-17:00)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "taon8": {
+    "voucherId": "4612",
+    "harga": 46093,
+    "nama": "Kuota 9GB (Mengikuti Masa Aktif Kartu) + Bonus Lokal 3GB",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tlte10": {
+    "voucherId": "1289",
+    "harga": 49449,
+    "nama": "Kuota Data LTE 4G 10GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.966Z"
+  },
+  "tlte12": {
+    "voucherId": "4609",
+    "harga": 62324,
+    "nama": "Kuota Data LTE 4G 12GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tlte15": {
+    "voucherId": "4610",
+    "harga": 60499,
+    "nama": "Kuota Data LTE 4G 15GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tlte32": {
+    "voucherId": "1290",
+    "harga": 79674,
+    "nama": "Kuota Data LTE 4G 32GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tlte29": {
+    "voucherId": "1330",
+    "harga": 92625,
+    "nama": "Kuota Data LTE 4G 38GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh93": {
+    "voucherId": "10230",
+    "harga": 16799,
+    "nama": "Three 12GB (9GB + 3GB 5G), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh113": {
+    "voucherId": "10232",
+    "harga": 33599,
+    "nama": "Three 14GB (11GB + 3GB 5G), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh153": {
+    "voucherId": "10231",
+    "harga": 26709,
+    "nama": "Three 18GB (15GB + 3GB 5G), 7 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh16": {
+    "voucherId": "10233",
+    "harga": 53474,
+    "nama": "Three 24GB (16GB + 8GB 5G), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh34": {
+    "voucherId": "10234",
+    "harga": 72899,
+    "nama": "Three 44GB (34GB + 10GB 5G), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh41": {
+    "voucherId": "10227",
+    "harga": 8589,
+    "nama": "Three 6GB (4GB + 2GB 5G), 1 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdfg70h30": {
+    "voucherId": "11274",
+    "harga": 102059,
+    "nama": "Three 70GB (50GB + 20GB 5G), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdh75g30h": {
+    "voucherId": "10384",
+    "harga": 102929,
+    "nama": "Three 75GB (55GB + 20GB 5G), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdp100": {
+    "voucherId": "9484",
+    "harga": 855,
+    "nama": "Tri Data 100MB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trp10": {
+    "voucherId": "4378",
+    "harga": 40165,
+    "nama": "Tri Data 10GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trp15": {
+    "voucherId": "4606",
+    "harga": 45991,
+    "nama": "Tri Data 15GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdp1": {
+    "voucherId": "6479",
+    "harga": 17850,
+    "nama": "Tri Data 1GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdp200": {
+    "voucherId": "9485",
+    "harga": 1490,
+    "nama": "Tri Data 200MB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trp20": {
+    "voucherId": "4607",
+    "harga": 63225,
+    "nama": "Tri Data 20GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdp2": {
+    "voucherId": "6480",
+    "harga": 17585,
+    "nama": "Tri Data 2GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trp30": {
+    "voucherId": "4608",
+    "harga": 72515,
+    "nama": "Tri Data 30GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trp33": {
+    "voucherId": "5775",
+    "harga": 83025,
+    "nama": "Tri Data 33GB / 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tripu330": {
+    "voucherId": "6469",
+    "harga": 17315,
+    "nama": "Tri Data 3GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdp430": {
+    "voucherId": "9483",
+    "harga": 23141,
+    "nama": "Tri Data 4GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tribuln500": {
+    "voucherId": "8313",
+    "harga": 3769,
+    "nama": "Tri Data 500MB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdva50": {
+    "voucherId": "8314",
+    "harga": 96981,
+    "nama": "Tri Data 50GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trp5": {
+    "voucherId": "4373",
+    "harga": 28425,
+    "nama": "Tri Data 5GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdp6": {
+    "voucherId": "9486",
+    "harga": 33600,
+    "nama": "Tri Data 6GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdhp7": {
+    "voucherId": "9863",
+    "harga": 34780,
+    "nama": "Tri Data 7GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdhp8": {
+    "voucherId": "9864",
+    "harga": 41998,
+    "nama": "Tri Data 8GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdhp9": {
+    "voucherId": "9865",
+    "harga": 44548,
+    "nama": "Tri Data 9GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdkotv5": {
+    "voucherId": "9520",
+    "harga": 28994,
+    "nama": "Kuota Streaming 5GB + Bonus Akses Trixogo + Viu Premium, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdkosg5": {
+    "voucherId": "9521",
+    "harga": 10028,
+    "nama": "Kuota Streaming 5GB + Bonus Genflix, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdkosv5": {
+    "voucherId": "9519",
+    "harga": 10026,
+    "nama": "Kuota Streaming 5GB + Bonus Viu Premium, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdkosg16": {
+    "voucherId": "9524",
+    "harga": 49917,
+    "nama": "Kuota utama 5GB + Kuota Streaming 11GB + Bonus Genflix, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdkokf16": {
+    "voucherId": "9523",
+    "harga": 49916,
+    "nama": "Kuota utama 5GB + Kuota Streaming 11GB + Bonus KlikFilm, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdkosv16": {
+    "voucherId": "9522",
+    "harga": 49916,
+    "nama": "Kuota utama 5GB + Kuota Streaming 11GB + Bonus Viu Premium, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhs5gb": {
+    "voucherId": "10536",
+    "harga": 126995,
+    "nama": "Three Kuota 150GB (FUP 5GB/hari), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dtrv150gb": {
+    "voucherId": "10630",
+    "harga": 131000,
+    "nama": "Three Kuota 150GB, 28 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdram20gb3": {
+    "voucherId": "10626",
+    "harga": 16224,
+    "nama": "Three Kuota 20GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhs300": {
+    "voucherId": "10539",
+    "harga": 147918,
+    "nama": "Three Kuota 300GB (150GB Nas + 150GB Malam ), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhs1gb": {
+    "voucherId": "10535",
+    "harga": 58278,
+    "nama": "Three Kuota 30GB (FUP 1GB/hari), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdram30gb5": {
+    "voucherId": "10627",
+    "harga": 26099,
+    "nama": "Three Kuota 30GB, 5 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhs2gb": {
+    "voucherId": "10537",
+    "harga": 97783,
+    "nama": "Three Kuota 60GB (FUP 2GB/hari), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dtrv65gb": {
+    "voucherId": "10629",
+    "harga": 90899,
+    "nama": "Three Kuota 65GB, 28 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdram75gb7": {
+    "voucherId": "10628",
+    "harga": 44299,
+    "nama": "Three Kuota 75GB, 7 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhs3gb": {
+    "voucherId": "10538",
+    "harga": 113208,
+    "nama": "Three Kuota 90GB (FUP 3GB/hari), 30 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhs1m7": {
+    "voucherId": "6523",
+    "harga": 9239,
+    "nama": "Kuota 1.5GB + Bonus Lokal, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdkhp100": {
+    "voucherId": "6416",
+    "harga": 105363,
+    "nama": "Kuota 100GB Nasional, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh43": {
+    "voucherId": "7838",
+    "harga": 22359,
+    "nama": "Kuota 10GB + Bonus Lokal, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhn10gb1": {
+    "voucherId": "9459",
+    "harga": 7834,
+    "nama": "Kuota 10GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh1014": {
+    "voucherId": "10807",
+    "harga": 26615,
+    "nama": "Kuota 10GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh10": {
+    "voucherId": "10113",
+    "harga": 33704,
+    "nama": "Kuota 10GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh105": {
+    "voucherId": "10856",
+    "harga": 16937,
+    "nama": "Kuota 10GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj11": {
+    "voucherId": "6525",
+    "harga": 33659,
+    "nama": "Kuota 11GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh115": {
+    "voucherId": "10806",
+    "harga": 19779,
+    "nama": "Kuota 11GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "thnmd12": {
+    "voucherId": "3888",
+    "harga": 45200,
+    "nama": "Kuota 12GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh12gb7": {
+    "voucherId": "8311",
+    "harga": 23037,
+    "nama": "Kuota 12GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj14": {
+    "voucherId": "6517",
+    "harga": 44674,
+    "nama": "Kuota 14GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhs5gb_2": {
+    "voucherId": "10533",
+    "harga": 126995,
+    "nama": "Kuota 150GB (FUP 5GB/hari), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhbl130": {
+    "voucherId": "6527",
+    "harga": 127325,
+    "nama": "Kuota 150GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh150": {
+    "voucherId": "6413",
+    "harga": 115417,
+    "nama": "Kuota 150GB Nasional, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh15gb30": {
+    "voucherId": "9914",
+    "harga": 45312,
+    "nama": "Kuota 15GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhs15m7": {
+    "voucherId": "9874",
+    "harga": 22809,
+    "nama": "Kuota 15GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh16gb28": {
+    "voucherId": "10748",
+    "harga": 44824,
+    "nama": "Kuota 16GB Nasional, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj175c": {
+    "voucherId": "9229",
+    "harga": 320720,
+    "nama": "Kuota 175GB Nasional / 180 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "thnmd18": {
+    "voucherId": "3889",
+    "harga": 47794,
+    "nama": "Kuota 18GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhs1m1": {
+    "voucherId": "6513",
+    "harga": 5293,
+    "nama": "Kuota 1GB + Bonus Lokal, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "thnmd1": {
+    "voucherId": "4384",
+    "harga": 6899,
+    "nama": "Kuota 1GB + Bonus Lokal, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh1tb360": {
+    "voucherId": "10560",
+    "harga": 898600,
+    "nama": "Kuota 1TB Nasional / 360 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhmi3": {
+    "voucherId": "7718",
+    "harga": 15354,
+    "nama": "Kuota 2.5GB (2GB Nasional + 0.5 Lokal) / 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh20gb30": {
+    "voucherId": "9915",
+    "harga": 56877,
+    "nama": "Kuota 20GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhn20gb3": {
+    "voucherId": "11138",
+    "harga": 16519,
+    "nama": "Kuota 20GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh23gb14": {
+    "voucherId": "6514",
+    "harga": 49274,
+    "nama": "Kuota 23GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh24gb28": {
+    "voucherId": "9458",
+    "harga": 53874,
+    "nama": "Kuota 24GB Nasional, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj250d": {
+    "voucherId": "9230",
+    "harga": 458040,
+    "nama": "Kuota 250GB Nasional / 365 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj250": {
+    "voucherId": "9391",
+    "harga": 164975,
+    "nama": "Kuota 250GB Nasional, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "thnmd25": {
+    "voucherId": "3890",
+    "harga": 54855,
+    "nama": "Kuota 25GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tphy21": {
+    "voucherId": "6410",
+    "harga": 6169,
+    "nama": "Kuota 2GB + Bonus Lokal, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhs3m3": {
+    "voucherId": "9379",
+    "harga": 11724,
+    "nama": "Kuota 3.5GB + Bonus Lokal, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhs1gb_2": {
+    "voucherId": "10534",
+    "harga": 58278,
+    "nama": "Kuota 30GB (FUP 1GB/hari), 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhjtg42": {
+    "voucherId": "8393",
+    "harga": 78424,
+    "nama": "Kuota 30GB + 12GB Lokal Jateng, Jabar dan Jogja / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhjtm42": {
+    "voucherId": "8392",
+    "harga": 78424,
+    "nama": "Kuota 30GB + 12GB Lokal Jatim, Bali dan Nusra / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj30": {
+    "voucherId": "6518",
+    "harga": 62324,
+    "nama": "Kuota 30GB Nasional, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhn30gb5": {
+    "voucherId": "11139",
+    "harga": 25931,
+    "nama": "Kuota 30GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh32g": {
+    "voucherId": "6093",
+    "harga": 69499,
+    "nama": "Kuota 32GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh3b": {
+    "voucherId": "10018",
+    "harga": 20596,
+    "nama": "Kuota 3GB Nasional / 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhwe5": {
+    "voucherId": "7719",
+    "harga": 19198,
+    "nama": "Kuota 3GB Nasional / 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trh2h3": {
+    "voucherId": "7717",
+    "harga": 8999,
+    "nama": "Kuota 3GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "thnmd3": {
+    "voucherId": "4383",
+    "harga": 16708,
+    "nama": "Kuota 4.5GB (3.5GB Nasional + 1GB Lokal) / 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj42": {
+    "voucherId": "6519",
+    "harga": 75099,
+    "nama": "Kuota 42GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tkhappy4530": {
+    "voucherId": "6414",
+    "harga": 82912,
+    "nama": "Kuota 45GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj3": {
+    "voucherId": "6524",
+    "harga": 20596,
+    "nama": "Kuota 4GB (3GB Nasional + 1GB Lokal) / 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhn4gb14": {
+    "voucherId": "9879",
+    "harga": 21615,
+    "nama": "Kuota 4GB / 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh50": {
+    "voucherId": "7720",
+    "harga": 82095,
+    "nama": "Kuota 50GB Nasional / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj55": {
+    "voucherId": "6528",
+    "harga": 86292,
+    "nama": "Kuota 55GB Nasional, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhs5m3": {
+    "voucherId": "6522",
+    "harga": 12482,
+    "nama": "Kuota 5GB + Bonus Lokal, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh4gb5": {
+    "voucherId": "9460",
+    "harga": 14648,
+    "nama": "Kuota 5GB + Bonus Lokal, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh5gb2n": {
+    "voucherId": "10749",
+    "harga": 8181,
+    "nama": "Kuota 5GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh65": {
+    "voucherId": "4382",
+    "harga": 85724,
+    "nama": "Kuota 65GB / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh6gb30": {
+    "voucherId": "10114",
+    "harga": 32469,
+    "nama": "Kuota 6GB + Bonus Lokal, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh6gb3": {
+    "voucherId": "9456",
+    "harga": 12572,
+    "nama": "Kuota 6GB + Bonus Lokal, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhs2m1": {
+    "voucherId": "6521",
+    "harga": 6759,
+    "nama": "Kuota 6GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhn6gb2": {
+    "voucherId": "9455",
+    "harga": 9114,
+    "nama": "Kuota 6GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj75b": {
+    "voucherId": "9228",
+    "harga": 137320,
+    "nama": "Kuota 75GB Nasional / 60 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rhn75gb7": {
+    "voucherId": "11140",
+    "harga": 44275,
+    "nama": "Kuota 75GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "thnmd6": {
+    "voucherId": "4381",
+    "harga": 17061,
+    "nama": "Kuota 7GB + Bonus Lokal, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh7gb5": {
+    "voucherId": "9461",
+    "harga": 16811,
+    "nama": "Kuota 7GB Nasional / 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh714": {
+    "voucherId": "10857",
+    "harga": 21369,
+    "nama": "Kuota 7GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh72": {
+    "voucherId": "10805",
+    "harga": 9299,
+    "nama": "Kuota 7GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhj7": {
+    "voucherId": "6516",
+    "harga": 30194,
+    "nama": "Kuota 7GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh80": {
+    "voucherId": "10425",
+    "harga": 110021,
+    "nama": "Kuota 80GB / 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh83": {
+    "voucherId": "10855",
+    "harga": 12598,
+    "nama": "Kuota 8GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh9gb5": {
+    "voucherId": "9462",
+    "harga": 28699,
+    "nama": "Kuota 9GB + Bonus Lokal, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trhs9m7": {
+    "voucherId": "8494",
+    "harga": 23439,
+    "nama": "Kuota 9GB + Bonus Lokal, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tdh9g": {
+    "voucherId": "6092",
+    "harga": 33499,
+    "nama": "Kuota 9GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tkhifib20": {
+    "voucherId": "11226",
+    "harga": 21949,
+    "nama": "Three Data Booster HiFi Air 20GB",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tkhifib50": {
+    "voucherId": "11227",
+    "harga": 44599,
+    "nama": "Three Data Booster HiFi Air 50GB",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tkhifi125": {
+    "voucherId": "9476",
+    "harga": 87869,
+    "nama": "Tri Data HiFi Air 125GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tkhifi200": {
+    "voucherId": "9477",
+    "harga": 132449,
+    "nama": "Tri Data HiFi Air 200GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tkhifi500": {
+    "voucherId": "9478",
+    "harga": 221320,
+    "nama": "Tri Data HiFi Air 500GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tkhifi75": {
+    "voucherId": "9475",
+    "harga": 66299,
+    "nama": "Tri Data HiFi Air 75GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdab12": {
+    "voucherId": "6512",
+    "harga": 57473,
+    "nama": "Kuota 12GB AlwaysOn (AON) + Hingga 4GB Lokal",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "taon14": {
+    "voucherId": "10027",
+    "harga": 66114,
+    "nama": "Kuota 14GB AlwaysOn (AON) + Hingga 4GB Lokal",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdab2a": {
+    "voucherId": "6511",
+    "harga": 23449,
+    "nama": "Kuota 2.5GB AlwaysOn (AON) + Hingga 0.5GB Lokal",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trda20mb": {
+    "voucherId": "9231",
+    "harga": 2049,
+    "nama": "Kuota 20MB AlwaysOn (AON)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "traon26g": {
+    "voucherId": "10871",
+    "harga": 82972,
+    "nama": "Kuota 26GB AlwaysOn (365hr)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdab3a": {
+    "voucherId": "6510",
+    "harga": 27359,
+    "nama": "Kuota 3.5GB AlwaysOn (AON) + Hingga 1GB Lokal",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trda300mb": {
+    "voucherId": "9233",
+    "harga": 9700,
+    "nama": "Kuota 300MB AlwaysOn (AON)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdab40": {
+    "voucherId": "6509",
+    "harga": 108596,
+    "nama": "Kuota 40GB AlwaysOn (AON) + Hingga 12GB Lokal",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rtaon4": {
+    "voucherId": "10115",
+    "harga": 27905,
+    "nama": "Kuota 4GB AlwaysOn (365hr) + Nelp 5.000mnt / 30hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "taon4a": {
+    "voucherId": "10052",
+    "harga": 28449,
+    "nama": "Kuota 4GB AlwaysOn (AON)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rtaon5": {
+    "voucherId": "10116",
+    "harga": 29099,
+    "nama": "Kuota 5GB AlwaysOn (365hr) + Nelp 5.000mnt / 30hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "taon4": {
+    "voucherId": "9232",
+    "harga": 28840,
+    "nama": "Kuota 5GB AlwaysOn (AON)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tridaon6": {
+    "voucherId": "10083",
+    "harga": 31125,
+    "nama": "Kuota 6GB AlwaysOn (AON)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdab6": {
+    "voucherId": "6507",
+    "harga": 31112,
+    "nama": "Kuota 6GB AlwaysOn (AON) + Hingga 2GB Lokal (365 hari)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdab26": {
+    "voucherId": "6508",
+    "harga": 72024,
+    "nama": "Kuota 6GB AlwaysOn (AON) + Unlimited FUP 20GB (30 hari)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdab9": {
+    "voucherId": "6506",
+    "harga": 46077,
+    "nama": "Kuota 9GB AlwaysOn (AON) + Hingga 3GB Lokal (365 hari)",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tmini5": {
+    "voucherId": "4385",
+    "harga": 6599,
+    "nama": "Kuota 0.5GB (24 Jam) + 2GB (01:00 - 09:00), 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trimx275": {
+    "voucherId": "8312",
+    "harga": 11559,
+    "nama": "Kuota 0.75GB (24 Jam) + 2GB (Khusus 4G), 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trimini2": {
+    "voucherId": "4611",
+    "harga": 10600,
+    "nama": "Kuota 1.5GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tmini15": {
+    "voucherId": "3425",
+    "harga": 10200,
+    "nama": "Kuota 1.5GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "rh2sgb1": {
+    "voucherId": "9457",
+    "harga": 5197,
+    "nama": "Kuota 1GB (24 Jam) + 1.5GB (01:00 -  09:00), 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tmini10": {
+    "voucherId": "3424",
+    "harga": 6443,
+    "nama": "Kuota 1GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trdp2g7h": {
+    "voucherId": "6836",
+    "harga": 12479,
+    "nama": "Kuota 3GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "trd37": {
+    "voucherId": "6837",
+    "harga": 19249,
+    "nama": "Kuota 3GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "tida57": {
+    "voucherId": "6838",
+    "harga": 24700,
+    "nama": "Kuota 5GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm10g1h": {
+    "voucherId": "10791",
+    "harga": 9800,
+    "nama": "XL Flex Mini 10GB, 1 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm10g7h": {
+    "voucherId": "10795",
+    "harga": 23159,
+    "nama": "XL Flex Mini 10GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfh15g2h": {
+    "voucherId": "11078",
+    "harga": 13244,
+    "nama": "XL Flex Mini 12GB, 2 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm150g14": {
+    "voucherId": "10800",
+    "harga": 95008,
+    "nama": "XL Flex Mini 150GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfm17g14h": {
+    "voucherId": "10682",
+    "harga": 36321,
+    "nama": "XL Flex Mini 15GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfm17g7h": {
+    "voucherId": "10683",
+    "harga": 27894,
+    "nama": "XL Flex Mini 15GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm20g3h": {
+    "voucherId": "10793",
+    "harga": 19189,
+    "nama": "XL Flex Mini 20GB, 3 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfm5g3h": {
+    "voucherId": "10684",
+    "harga": 11949,
+    "nama": "XL Flex Mini 3.5GB, 3 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm30g14": {
+    "voucherId": "10798",
+    "harga": 46249,
+    "nama": "XL Flex Mini 30GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfm31": {
+    "voucherId": "10685",
+    "harga": 6197,
+    "nama": "XL Flex Mini 3GB - 4GB + Bonus Nelpon, 1 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfh5g14h": {
+    "voucherId": "10844",
+    "harga": 18629,
+    "nama": "XL Flex Mini 3GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm40g7h": {
+    "voucherId": "10796",
+    "harga": 37849,
+    "nama": "XL Flex Mini 40GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfm5g7h": {
+    "voucherId": "10686",
+    "harga": 14774,
+    "nama": "XL Flex Mini 4GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfh8g14h": {
+    "voucherId": "11084",
+    "harga": 22559,
+    "nama": "XL Flex Mini 6GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfh8g2h": {
+    "voucherId": "11079",
+    "harga": 9315,
+    "nama": "XL Flex Mini 6GB, 2 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm6g3h": {
+    "voucherId": "10792",
+    "harga": 13874,
+    "nama": "XL Flex Mini 6GB, 3 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm6g7h": {
+    "voucherId": "10794",
+    "harga": 18299,
+    "nama": "XL Flex Mini 6GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm75g14": {
+    "voucherId": "10799",
+    "harga": 70614,
+    "nama": "XL Flex Mini 75GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm75g7h": {
+    "voucherId": "10797",
+    "harga": 47749,
+    "nama": "XL Flex Mini 75GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfm9g14h": {
+    "voucherId": "10687",
+    "harga": 27474,
+    "nama": "XL Flex Mini 8GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm168": {
+    "voucherId": "10544",
+    "harga": 175199,
+    "nama": "XL Data 168GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm56": {
+    "voucherId": "10543",
+    "harga": 94199,
+    "nama": "XL Data 56GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfp10": {
+    "voucherId": "10688",
+    "harga": 54919,
+    "nama": "XL Data Flex 19GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm10028": {
+    "voucherId": "10313",
+    "harga": 104478,
+    "nama": "XL Data Flex Max 100GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm1028": {
+    "voucherId": "10654",
+    "harga": 37221,
+    "nama": "XL Data Flex Max 10GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm15028": {
+    "voucherId": "10309",
+    "harga": 138597,
+    "nama": "XL Data Flex Max 150GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm1628": {
+    "voucherId": "11093",
+    "harga": 44999,
+    "nama": "XL Data Flex Max 16GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm2328": {
+    "voucherId": "10312",
+    "harga": 54813,
+    "nama": "XL Data Flex Max 23GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdfm250": {
+    "voucherId": "10652",
+    "harga": 190250,
+    "nama": "XL Data Flex Max 250GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm30028": {
+    "voucherId": "10655",
+    "harga": 189750,
+    "nama": "XL Data Flex Max 300GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm3128": {
+    "voucherId": "10310",
+    "harga": 61949,
+    "nama": "XL Data Flex Max 31GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm3314": {
+    "voucherId": "10325",
+    "harga": 65387,
+    "nama": "XL Data Flex Max 33GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm4028": {
+    "voucherId": "11094",
+    "harga": 70899,
+    "nama": "XL Data Flex Max 40GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm5028": {
+    "voucherId": "10308",
+    "harga": 79723,
+    "nama": "XL Data Flex Max 50GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm30028_2": {
+    "voucherId": "10653",
+    "harga": 286950,
+    "nama": "XL Data Flex Max 600GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm6528": {
+    "voucherId": "10311",
+    "harga": 88948,
+    "nama": "XL Data Flex Max 65GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm7514": {
+    "voucherId": "10326",
+    "harga": 70513,
+    "nama": "XL Data Flex Max 75GB, 14 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldfm728": {
+    "voucherId": "10759",
+    "harga": 32144,
+    "nama": "XL Data Flex Max 7GB + Bonus Nelpon, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdc12": {
+    "voucherId": "10138",
+    "harga": 22299,
+    "nama": "Kuota Circle 12GB, 30 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdc3": {
+    "voucherId": "10043",
+    "harga": 8100,
+    "nama": "Kuota Circle 3GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdc4": {
+    "voucherId": "10009",
+    "harga": 10100,
+    "nama": "Kuota Circle 4GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdc8": {
+    "voucherId": "10044",
+    "harga": 17699,
+    "nama": "Kuota Circle 8GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcb33": {
+    "voucherId": "8288",
+    "harga": 46399,
+    "nama": "Kuota Reguler 13GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl19": {
+    "voucherId": "9375",
+    "harga": 47499,
+    "nama": "Kuota Reguler 19GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl25": {
+    "voucherId": "9410",
+    "harga": 53499,
+    "nama": "Kuota Reguler 25GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl26": {
+    "voucherId": "9415",
+    "harga": 68199,
+    "nama": "Kuota Reguler 26GB (Nasional) + Kuota Lokal s/d 27GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl21": {
+    "voucherId": "8295",
+    "harga": 58099,
+    "nama": "Kuota Reguler 31GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcb35": {
+    "voucherId": "9901",
+    "harga": 71549,
+    "nama": "Kuota Reguler 34GB (Nasional) + Kuota Lokal s/d 38GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl34": {
+    "voucherId": "6792",
+    "harga": 63499,
+    "nama": "Kuota Reguler 38GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcb47a": {
+    "voucherId": "9377",
+    "harga": 69669,
+    "nama": "Kuota Reguler 47GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl54": {
+    "voucherId": "10139",
+    "harga": 73677,
+    "nama": "Kuota Reguler 50GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xla34": {
+    "voucherId": "10042",
+    "harga": 87199,
+    "nama": "Kuota Reguler 51GB (Nasional) + Kuota Lokal s/d 38GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcb63": {
+    "voucherId": "9960",
+    "harga": 84279,
+    "nama": "Kuota Reguler 63GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl64": {
+    "voucherId": "6793",
+    "harga": 99499,
+    "nama": "Kuota Reguler 64GB (Nasional) + Kuota Lokal s/d 61GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl76": {
+    "voucherId": "9378",
+    "harga": 91000,
+    "nama": "Kuota Reguler 76GB (Nasional) + Kuota Lokal s/d 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xl58": {
+    "voucherId": "9414",
+    "harga": 97699,
+    "nama": "Kuota Reguler 88GB (Nasional) + Kuota Lokal sd 17GB, 28 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k5": {
+    "voucherId": "8296",
+    "harga": 9539,
+    "nama": "Kuota 1.25GB - 2GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k6": {
+    "voucherId": "8428",
+    "harga": 12437,
+    "nama": "Kuota 1.5GB - 2.4GB, 6 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdcsm2": {
+    "voucherId": "7102",
+    "harga": 13099,
+    "nama": "Kuota 1.5GB - 2.5GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb153": {
+    "voucherId": "8891",
+    "harga": 8639,
+    "nama": "Kuota 1.5GB - 3GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k7": {
+    "voucherId": "8126",
+    "harga": 13355,
+    "nama": "Kuota 1.75GB - 2.8GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k1": {
+    "voucherId": "8852",
+    "harga": 4826,
+    "nama": "Kuota 1.8GB - 3GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k6": {
+    "voucherId": "8857",
+    "harga": 31885,
+    "nama": "Kuota 10.8GB - 18GB, 6 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb1020": {
+    "voucherId": "8905",
+    "harga": 61960,
+    "nama": "Kuota 10GB - 20GB, 20 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k7": {
+    "voucherId": "8858",
+    "harga": 33335,
+    "nama": "Kuota 12.6GB - 21GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k8": {
+    "voucherId": "8859",
+    "harga": 42574,
+    "nama": "Kuota 14.4GB - 24GB , 8 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k9": {
+    "voucherId": "8860",
+    "harga": 47334,
+    "nama": "Kuota 16.2GB - 27GB, 9 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k10": {
+    "voucherId": "8861",
+    "harga": 47702,
+    "nama": "Kuota 18GB - 30GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k11": {
+    "voucherId": "8862",
+    "harga": 57864,
+    "nama": "Kuota 19.8GB - 33GB, 11 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xdcsm1": {
+    "voucherId": "7101",
+    "harga": 4899,
+    "nama": "Kuota 1GB - 1.5GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k4": {
+    "voucherId": "8116",
+    "harga": 8449,
+    "nama": "Kuota 1GB - 1.6GB, 4 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb12": {
+    "voucherId": "8890",
+    "harga": 7254,
+    "nama": "Kuota 1GB - 2GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k9": {
+    "voucherId": "8119",
+    "harga": 18571,
+    "nama": "Kuota 2.25GB - 3.6GB, 9 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k10": {
+    "voucherId": "8120",
+    "harga": 19013,
+    "nama": "Kuota 2.5GB - 4GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb255": {
+    "voucherId": "8893",
+    "harga": 14322,
+    "nama": "Kuota 2.5GB - 5GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k11": {
+    "voucherId": "8297",
+    "harga": 22715,
+    "nama": "Kuota 2.75GB - 4.4GB, 11 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k12": {
+    "voucherId": "8863",
+    "harga": 63179,
+    "nama": "Kuota 21.6GB - 36GB, 12 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k13": {
+    "voucherId": "8864",
+    "harga": 68394,
+    "nama": "Kuota 23.4GB - 39GB, 13 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k14": {
+    "voucherId": "8865",
+    "harga": 73609,
+    "nama": "Kuota 25.2GB - 42GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k1": {
+    "voucherId": "8113",
+    "harga": 1998,
+    "nama": "Kuota 250MB - 400MB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k15": {
+    "voucherId": "8866",
+    "harga": 64699,
+    "nama": "Kuota 27GB - 45GB, 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k16": {
+    "voucherId": "8867",
+    "harga": 84873,
+    "nama": "Kuota 28.8GB - 48GB, 16 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k8": {
+    "voucherId": "8118",
+    "harga": 16594,
+    "nama": "Kuota 2GB - 3.2GB, 8 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb24": {
+    "voucherId": "8892",
+    "harga": 12456,
+    "nama": "Kuota 2GB - 4GB, 4 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k13": {
+    "voucherId": "8294",
+    "harga": 26999,
+    "nama": "Kuota 3.25GB - 5.2GB, 13 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k14": {
+    "voucherId": "8299",
+    "harga": 28599,
+    "nama": "Kuota 3.5GB - 5.6GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb357": {
+    "voucherId": "8895",
+    "harga": 19999,
+    "nama": "Kuota 3.5GB - 7GB, 7 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k2": {
+    "voucherId": "8853",
+    "harga": 10462,
+    "nama": "Kuota 3.6GB - 6GB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k15": {
+    "voucherId": "8300",
+    "harga": 28578,
+    "nama": "Kuota 3.75GB - 6GB, 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k17": {
+    "voucherId": "8868",
+    "harga": 89454,
+    "nama": "Kuota 30.6GB - 51GB, 17 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k18": {
+    "voucherId": "8869",
+    "harga": 94669,
+    "nama": "Kuota 32.4GB - 54GB, 18 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k19": {
+    "voucherId": "8870",
+    "harga": 99984,
+    "nama": "Kuota 34.2GB - 57GB, 19 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k12": {
+    "voucherId": "8298",
+    "harga": 24899,
+    "nama": "Kuota 3GB - 4.8GB, 12 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb36": {
+    "voucherId": "8894",
+    "harga": 18592,
+    "nama": "Kuota 3GB - 6GB, 6 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k17": {
+    "voucherId": "8302",
+    "harga": 35096,
+    "nama": "Kuota 4.25GB - 6.8GB, 17 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k18": {
+    "voucherId": "8303",
+    "harga": 36749,
+    "nama": "Kuota 4.5GB - 7.2GB, 18 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb459": {
+    "voucherId": "8897",
+    "harga": 27884,
+    "nama": "Kuota 4.5GB - 9GB, 9 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k19": {
+    "voucherId": "8304",
+    "harga": 38824,
+    "nama": "Kuota 4.75GB - 7.6GB, 19 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k16": {
+    "voucherId": "8301",
+    "harga": 33049,
+    "nama": "Kuota 4GB - 6.4GB, 16 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb48": {
+    "voucherId": "8896",
+    "harga": 24839,
+    "nama": "Kuota 4GB - 8GB, 8 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k3": {
+    "voucherId": "8854",
+    "harga": 14425,
+    "nama": "Kuota 5.4GB - 9GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb5511": {
+    "voucherId": "8899",
+    "harga": 34100,
+    "nama": "Kuota 5.5GB - 11GB, 11 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb5001": {
+    "voucherId": "8889",
+    "harga": 2943,
+    "nama": "Kuota 500MB - 1GB, 1 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k2": {
+    "voucherId": "8114",
+    "harga": 4404,
+    "nama": "Kuota 500MB - 800MB, 2 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb510": {
+    "voucherId": "8898",
+    "harga": 28670,
+    "nama": "Kuota 5GB - 10GB, 10 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb6513": {
+    "voucherId": "8901",
+    "harga": 40291,
+    "nama": "Kuota 6.5GB - 13GB, 13 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb612": {
+    "voucherId": "8900",
+    "harga": 37196,
+    "nama": "Kuota 6GB - 12GB, 12 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k4": {
+    "voucherId": "8855",
+    "harga": 21320,
+    "nama": "Kuota 7.2GB - 12GB, 4 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb7515": {
+    "voucherId": "8903",
+    "harga": 42858,
+    "nama": "Kuota 7.5GB - 15GB, 15 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp2k3": {
+    "voucherId": "8115",
+    "harga": 5809,
+    "nama": "Kuota 750MB - 1.2GB, 3 Hari",
+    "operator": "Three",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb714": {
+    "voucherId": "8902",
+    "harga": 43383,
+    "nama": "Kuota 7GB - 14GB, 14 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb517": {
+    "voucherId": "8908",
+    "harga": 52648,
+    "nama": "Kuota 8.5GB - 17GB, 17 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb816": {
+    "voucherId": "8904",
+    "harga": 49528,
+    "nama": "Kuota 8GB - 16GB, 16 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb9519": {
+    "voucherId": "8907",
+    "harga": 58840,
+    "nama": "Kuota 9.5GB - 19GB, 19 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxbp5k5": {
+    "voucherId": "8856",
+    "harga": 23908,
+    "nama": "Kuota 9GB - 15GB, 5 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldb918": {
+    "voucherId": "8906",
+    "harga": 55744,
+    "nama": "Kuota 9GB - 18GB, 18 Hari",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xhpro1": {
+    "voucherId": "4939",
+    "harga": 10142,
+    "nama": "Xtra Combo Mini 1.5GB s/d 4GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xhpro2": {
+    "voucherId": "4940",
+    "harga": 14969,
+    "nama": "Xtra Combo Mini 2.5GB s/d 6.5GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xhpro4": {
+    "voucherId": "4938",
+    "harga": 18918,
+    "nama": "Xtra Combo Mini 4GB s/d 10GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xhpro6": {
+    "voucherId": "4937",
+    "harga": 24605,
+    "nama": "Xtra Combo Mini 6GB s/d 14.5GB, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhl3": {
+    "voucherId": "8464",
+    "harga": 14537,
+    "nama": "Kuota Harian L (4.5GB + Lokal s/d 2GB), 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldmi7": {
+    "voucherId": "8481",
+    "harga": 18099,
+    "nama": "Kuota Harian L (5.5GB + Lokal s/d 3GB), 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhl7": {
+    "voucherId": "8465",
+    "harga": 26796,
+    "nama": "Kuota Harian L (6.5GB + Lokal s/d 5GB), 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldsm3": {
+    "voucherId": "8480",
+    "harga": 13099,
+    "nama": "Kuota Harian M (2.5GB + Lokal s/d 1.5GB), 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldhs6": {
+    "voucherId": "8484",
+    "harga": 23197,
+    "nama": "Kuota Harian M (3.5GB + Lokal s/d 5.5GB), 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhm5": {
+    "voucherId": "8466",
+    "harga": 16072,
+    "nama": "Kuota Harian M (3GB + Lokal s/d 2GB), 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhm7": {
+    "voucherId": "8467",
+    "harga": 21046,
+    "nama": "Kuota Harian M (4.5GB + Lokal s/d 3.5GB), 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhs3": {
+    "voucherId": "8468",
+    "harga": 12099,
+    "nama": "Kuota Harian S (1.5GB + Lokal s/d 1GB), 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldhs4": {
+    "voucherId": "8483",
+    "harga": 18313,
+    "nama": "Kuota Harian S (2.5GB + Lokal s/d 4GB), 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhs5": {
+    "voucherId": "8469",
+    "harga": 13643,
+    "nama": "Kuota Harian S (2GB + Lokal s/d 1.5GB), 5Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhs7": {
+    "voucherId": "8470",
+    "harga": 17346,
+    "nama": "Kuota Harian S (3GB + Lokal s/d 1.5GB), 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhxl7": {
+    "voucherId": "8471",
+    "harga": 32698,
+    "nama": "Kuota Harian XL (12GB + Lokal s/d 8GB), 7Hr",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldhs3": {
+    "voucherId": "8482",
+    "harga": 18398,
+    "nama": "Kuota Harian XS (1.5GB + Lokal s/d 3.5GB), 10Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "dxdhxs7": {
+    "voucherId": "8472",
+    "harga": 17388,
+    "nama": "Kuota Harian XS (2GB + Lokal s/d 1GB), 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xpass1": {
+    "voucherId": "9793",
+    "harga": 84475,
+    "nama": "XL Pass, 1 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xpass3": {
+    "voucherId": "9794",
+    "harga": 148688,
+    "nama": "XL Pass, 3 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xpass7": {
+    "voucherId": "9795",
+    "harga": 247313,
+    "nama": "XL Pass, 7 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldrc425": {
+    "voucherId": "9872",
+    "harga": 403889,
+    "nama": "Combo Roaming Unlimited (FUP 1.75GB) + 100 Menit + 100 SMS, 7Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldrc160": {
+    "voucherId": "9870",
+    "harga": 153000,
+    "nama": "Combo Roaming Unlimited (FUP 250MB) + 25 Menit + 25 SMS, 1Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldrc825": {
+    "voucherId": "9873",
+    "harga": 784316,
+    "nama": "Combo Roaming Unlimited (FUP 3.5GB) + 150 Menit + 150 SMS, 30Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldrc225": {
+    "voucherId": "9871",
+    "harga": 214886,
+    "nama": "Combo Roaming Unlimited (FUP 750MB) + 50 Menit + 50 SMS, 3Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xud5g100gb": {
+    "voucherId": "10902",
+    "harga": 119510,
+    "nama": "XL Ultra 5G+ 100GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldu1": {
+    "voucherId": "10529",
+    "harga": 142025,
+    "nama": "XL Ultra 5G+ 150GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xud5g300gb": {
+    "voucherId": "10903",
+    "harga": 192825,
+    "nama": "XL Ultra 5G+ 300GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldubl500": {
+    "voucherId": "10531",
+    "harga": 293525,
+    "nama": "XL Ultra 5G+ 600GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xud5g65gb": {
+    "voucherId": "10530",
+    "harga": 94825,
+    "nama": "XL Ultra 5G+ 65GB, 28 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xlbl12": {
+    "voucherId": "6596",
+    "harga": 4840,
+    "nama": "XL Data Blue 1GB, 2 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xlbl32": {
+    "voucherId": "6595",
+    "harga": 9553,
+    "nama": "XL Data Blue 3GB, 2 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xldtb5": {
+    "voucherId": "10542",
+    "harga": 10184,
+    "nama": "XL Data Blue 5GB, 2 Hari",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfl": {
+    "voucherId": "5920",
+    "harga": 67248,
+    "nama": "(Flex L) 18GB + Kuota Lokal s/d 9GB + Bonus Nelp, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "flll": {
+    "voucherId": "8022",
+    "harga": 78283,
+    "nama": "(Flex L+) 26GB + Kuota Lokal s/d 11GB + Bonus Nelp, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfm": {
+    "voucherId": "5921",
+    "harga": 47898,
+    "nama": "(Flex M) 10GB + Kuota Lokal s/d 5GB + Bonus Nelp, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "flmm": {
+    "voucherId": "8021",
+    "harga": 57599,
+    "nama": "(Flex M+) 14GB + Kuota Lokal s/d 6GB + Bonus Nelp, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfs3": {
+    "voucherId": "10406",
+    "harga": 31908,
+    "nama": "(Flex S) 3.5GB + Kuota Lokal s/d 1.5GB + Bonus Nelp, 14Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfs2": {
+    "voucherId": "10048",
+    "harga": 32020,
+    "nama": "(Flex S) 3.5GB + Kuota Lokal s/d 1.5GB + Bonus Nelp, 21Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfs": {
+    "voucherId": "5925",
+    "harga": 31588,
+    "nama": "(Flex S) 5GB + Bonus Nelp, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfs4": {
+    "voucherId": "10032",
+    "harga": 32213,
+    "nama": "(Flex S) 7GB + Bonus Nelp, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfsp": {
+    "voucherId": "6478",
+    "harga": 34280,
+    "nama": "(Flex S+) 7GB + Kuota Lokal s/d 3GB + Bonus Nelp, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfxl": {
+    "voucherId": "5924",
+    "harga": 96236,
+    "nama": "(Flex XL) 32GB + Kuota Lokal s/d 14GB + Bonus Nelp, 28Hr",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfxs": {
+    "voucherId": "10568",
+    "harga": 17399,
+    "nama": "(Flex XS) Kuota 2GB, 28Hr",
+    "operator": "Umum",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfxxl": {
+    "voucherId": "5923",
+    "harga": 134850,
+    "nama": "(Flex XXL) 65GB + Kuota Lokal s/d 25GB + Bonus Nelp, 28Hr",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  },
+  "xcfxxxl": {
+    "voucherId": "5922",
+    "harga": 159424,
+    "nama": "(Flex XXXL) 120GB+ Kuota Lokal s/d 60GB+ Bonus Nelp, 28Hr",
+    "operator": "XL",
+    "createdAt": "2026-05-13T17:08:52.967Z"
+  }
+}

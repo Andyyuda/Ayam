@@ -149,6 +149,43 @@ function tanyaInput(prompt) {
   });
 }
 
+// Telegram bisa mengembalikan teks langsung atau object update, tergantung
+// implementasi lib/telegram.js. Normalisasi di satu tempat supaya pilihan
+// "1"/"2" dan nomor HP selalu terbaca sebagai string.
+function getTelegramText(reply) {
+  if (reply === null || reply === undefined) return '';
+  if (typeof reply === 'string' || typeof reply === 'number') {
+    return String(reply).trim();
+  }
+
+  const candidates = [
+    reply.text,
+    reply.message?.text,
+    reply.update?.message?.text,
+    reply.result?.message?.text,
+    reply.content
+  ];
+
+  const text = candidates.find(value =>
+    typeof value === 'string' || typeof value === 'number'
+  );
+  return text === undefined ? '' : String(text).trim();
+}
+
+async function waitTelegramText(timeoutMs = 120000) {
+  try {
+    return getTelegramText(await tg.waitReply(timeoutMs));
+  } catch (err) {
+    console.error(chalk.red(`❌ Gagal membaca balasan Telegram: ${err.message}`));
+    if (tg.isConfigured) {
+      try {
+        await tg.sendMessage('❌ Gagal membaca pilihan. Silakan kirim ulang 1 atau 2.');
+      } catch (_) {}
+    }
+    return '';
+  }
+}
+
 async function start() {
   const { state, saveCreds } = await useMultiFileAuthState('./auth');
   const { version } = await fetchLatestBaileysVersion();
@@ -169,22 +206,28 @@ async function start() {
         'Balas <b>1</b> untuk QR atau <b>2</b> untuk Pairing Code'
       );
 
-      const input = await tg.waitReply(120000);
-      const inputBersih = (input || '').trim();
+      const inputBersih = await waitTelegramText(120000);
+      const pilihan = inputBersih.toLowerCase();
 
-      if (inputBersih === '2' || inputBersih.toLowerCase() === 'pairing') {
+      if (pilihan === '2' || pilihan === 'p' || pilihan === 'pairing') {
         modeLogin = 'pairing';
         await tg.sendMessage('📱 Masukkan nomor HP:\n<code>628xxxxxxxxxx</code>\n(tanpa + atau spasi)');
-        const nomInput = await tg.waitReply(120000);
-        nomorTarget = (nomInput || '').replace(/[^0-9]/g, '');
+        const nomInput = await waitTelegramText(120000);
+        nomorTarget = nomInput.replace(/[^0-9]/g, '');
         if (!nomorTarget || nomorTarget.length < 10) {
           await tg.sendMessage('❌ Nomor tidak valid. Restart bot dan coba lagi.');
           return;
         }
         await tg.sendMessage(`⏳ Nomor diterima: <code>${nomorTarget}</code>\nMeminta pairing code...`);
-      } else {
+      } else if (pilihan === '1' || pilihan === 'q' || pilihan === 'qr') {
         modeLogin = 'qr';
         await tg.sendMessage('✅ Mode QR aktif. QR akan dikirim sebentar...');
+      } else {
+        await tg.sendMessage(
+          '❌ Pilihan tidak dikenali.\n\n' +
+          'Kirim <b>1</b> untuk QR Code atau <b>2</b> untuk Pairing Code.'
+        );
+        return;
       }
     } else {
       console.log(chalk.bgCyan.black('\n╔══════════════════════════════════╗'));

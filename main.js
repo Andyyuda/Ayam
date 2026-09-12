@@ -10,7 +10,6 @@ const {
 const fs = require('fs');
 const path = require('path');
 const chalk = require('chalk');
-const readline = require('readline');
 const setting = require('./setting');
 const { getPhoneNumber, isOwner } = require('./lib/helper');
 const tg = require('./lib/telegram');
@@ -138,119 +137,21 @@ fs.watch(PLUGIN_DIR, (eventType, filename) => {
 
 console.log(chalk.cyan(`👁️  Watching plugins di: ${PLUGIN_DIR}`));
 
-// 📟 Tanya input via terminal
-function tanyaInput(prompt) {
-  return new Promise(resolve => {
-    const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
-    rl.question(prompt, answer => {
-      rl.close();
-      resolve(answer.trim());
-    });
-  });
-}
-
-// Telegram bisa mengembalikan teks langsung atau object update, tergantung
-// implementasi lib/telegram.js. Normalisasi di satu tempat supaya pilihan
-// "1"/"2" dan nomor HP selalu terbaca sebagai string.
-function getTelegramText(reply) {
-  if (reply === null || reply === undefined) return '';
-  if (typeof reply === 'string' || typeof reply === 'number') {
-    return String(reply).trim();
-  }
-
-  const candidates = [
-    reply.text,
-    reply.message?.text,
-    reply.update?.message?.text,
-    reply.result?.message?.text,
-    reply.content
-  ];
-
-  const text = candidates.find(value =>
-    typeof value === 'string' || typeof value === 'number'
-  );
-  return text === undefined ? '' : String(text).trim();
-}
-
-async function waitTelegramText(timeoutMs = 120000) {
-  try {
-    return getTelegramText(await tg.waitReply(timeoutMs));
-  } catch (err) {
-    console.error(chalk.red(`❌ Gagal membaca balasan Telegram: ${err.message}`));
-    if (tg.isConfigured) {
-      try {
-        await tg.sendMessage('❌ Gagal membaca pilihan. Silakan kirim ulang 1 atau 2.');
-      } catch (_) {}
-    }
-    return '';
-  }
-}
-
 async function start() {
   const { state, saveCreds } = await useMultiFileAuthState('./auth');
   const { version } = await fetchLatestBaileysVersion();
-
-  let modeLogin = null;
-  let nomorTarget = null;
 
   const isAlreadyLoggedIn = !!(state.creds.me || state.creds.registered);
 
   if (!isAlreadyLoggedIn) {
     if (tg.isConfigured) {
-      console.log(chalk.cyan('📲 Bot belum terdaftar. Mengirim pilihan login ke Telegram...'));
+      console.log(chalk.cyan('📲 Bot belum terdaftar. QR akan dikirim langsung ke Telegram...'));
       await tg.sendMessage(
-        '🤖 <b>BotWA siap login!</b>\n\n' +
-        'Pilih mode login:\n' +
-        '1️⃣ <b>QR Code</b> — scan QR dari WhatsApp\n' +
-        '2️⃣ <b>Pairing Code</b> — masukkan kode di Linked Devices\n\n' +
-        'Balas <b>1</b> untuk QR atau <b>2</b> untuk Pairing Code'
+        '🤖 <b>BotWA siap login.</b>\n' +
+        '📷 QR Code akan dikirim langsung ke Telegram...'
       );
-
-      const inputBersih = await waitTelegramText(120000);
-      const pilihan = inputBersih.toLowerCase();
-
-      if (pilihan === '2' || pilihan === 'p' || pilihan === 'pairing') {
-        modeLogin = 'pairing';
-        await tg.sendMessage('📱 Masukkan nomor HP:\n<code>628xxxxxxxxxx</code>\n(tanpa + atau spasi)');
-        const nomInput = await waitTelegramText(120000);
-        nomorTarget = nomInput.replace(/[^0-9]/g, '');
-        if (!nomorTarget || nomorTarget.length < 10) {
-          await tg.sendMessage('❌ Nomor tidak valid. Restart bot dan coba lagi.');
-          return;
-        }
-        await tg.sendMessage(`⏳ Nomor diterima: <code>${nomorTarget}</code>\nMeminta pairing code...`);
-      } else if (pilihan === '1' || pilihan === 'q' || pilihan === 'qr') {
-        modeLogin = 'qr';
-        await tg.sendMessage('✅ Mode QR aktif. QR akan dikirim sebentar...');
-      } else {
-        await tg.sendMessage(
-          '❌ Pilihan tidak dikenali.\n\n' +
-          'Kirim <b>1</b> untuk QR Code atau <b>2</b> untuk Pairing Code.'
-        );
-        return;
-      }
     } else {
-      console.log(chalk.bgCyan.black('\n╔══════════════════════════════════╗'));
-      console.log(chalk.bgCyan.black('   🤖  BOTWA — LOGIN WHATSAPP BOT   '));
-      console.log(chalk.bgCyan.black('╚══════════════════════════════════╝\n'));
-      console.log(chalk.white('  [1] QR Code    ') + chalk.gray('(scan QR dari WhatsApp)'));
-      console.log(chalk.white('  [2] Pairing Code') + chalk.gray('(masukkan kode di WA → Linked Devices)\n'));
-
-      const input = await tanyaInput(chalk.cyan('Pilih mode login (1/2): '));
-      const pil = input.trim();
-
-      if (pil === '2' || pil.toLowerCase() === 'p' || pil.toLowerCase() === 'pairing') {
-        modeLogin = 'pairing';
-        nomorTarget = (await tanyaInput(chalk.cyan('📱 Masukkan nomor HP (contoh: 628xxxxxxxxxx): ')))
-          .replace(/[^0-9]/g, '');
-        if (!nomorTarget || nomorTarget.length < 10) {
-          console.log(chalk.red('❌ Nomor tidak valid. Coba lagi.'));
-          return start();
-        }
-      } else {
-        modeLogin = 'qr';
-        console.log(chalk.green('\n✅ Mode QR dipilih. QR akan muncul di bawah...\n'));
-      }
+      console.log(chalk.green('\n✅ Mode QR aktif. QR akan muncul di Telegram atau terminal...\n'));
     }
   }
 
@@ -296,69 +197,39 @@ async function start() {
 
   sock.ev.on('creds.update', saveCreds);
 
-  let sudahLogin = false;
-
   sock.ev.on('connection.update', async (update) => {
     const { connection, lastDisconnect, qr } = update;
 
-    if (qr && !state.creds.registered && !sudahLogin) {
-      if (modeLogin === 'pairing' && nomorTarget) {
-        sudahLogin = true;
+    // Tidak ada lagi pilihan login. Setiap QR dari WhatsApp langsung dikirim
+    // ke Telegram melalui helper lib/telegram.js.
+    if (qr && !state.creds.registered) {
+      if (tg.isConfigured) {
         try {
-          console.log(chalk.cyan('⏳ Meminta pairing code ke WhatsApp...'));
-          const code = await sock.requestPairingCode(nomorTarget);
-          const fmt = code.match(/.{1,4}/g).join('-');
-
-          if (tg.isConfigured) {
-            await tg.sendMessage(
-              '🔑 <b>PAIRING CODE BOT WHATSAPP</b>\n\n' +
-              `Kode: <code>${fmt}</code>\n` +
-              `Nomor: <code>${nomorTarget}</code>\n\n` +
-              '📋 Cara pakai:\n' +
-              '1. Buka WhatsApp di HP\n' +
-              '2. ⋮ → Perangkat Tertaut → Tautkan Perangkat\n' +
-              '3. Tautkan dengan nomor telepon\n' +
-              `4. Ketik kode: <b>${fmt}</b>\n\n` +
-              '⚠️ Berlaku ±60 detik — masukkan SEGERA!'
-            );
-          } else {
-            console.log(chalk.bgGreen.black('\n╔══════════════════════════════╗'));
-            console.log(chalk.bgGreen.black('  🔑 PAIRING CODE BOT WHATSAPP  '));
-            console.log(chalk.bgGreen.black('╚══════════════════════════════╝'));
-            console.log(chalk.yellow('\n  Kode : ') + chalk.bold.white(fmt));
-            console.log(chalk.cyan(`  Nomor: ${nomorTarget}\n`));
-            console.log(chalk.gray('  1. Buka WhatsApp di HP'));
-            console.log(chalk.gray('  2. ⋮ → Perangkat Tertaut → Tautkan Perangkat'));
-            console.log(chalk.gray('  3. Tautkan dengan nomor telepon'));
-            console.log(chalk.gray(`  4. Ketik kode: ${chalk.bold(fmt)}`));
-            console.log(chalk.red('\n  ⚠️  Berlaku ±60 detik — masukkan SEGERA!\n'));
+          const qrcode = require('qrcode');
+          const buf = await qrcode.toBuffer(qr, { type: 'png', scale: 6, margin: 2 });
+          const result = await tg.sendPhoto(
+            buf,
+            '📷 <b>Scan QR ini dengan WhatsApp</b>\n' +
+            '⏰ Berlaku sekitar 30 detik\n\n' +
+            'Jika kedaluwarsa, QR baru akan dikirim otomatis.'
+          );
+          if (!result?.ok) {
+            console.error(chalk.red(`❌ Telegram gagal mengirim QR: ${result?.description ?? 'respons tidak valid'}`));
           }
-        } catch (err) {
-          const errMsg = `❌ Gagal dapat pairing code: ${err.message}\n💡 Coba rm -rf auth/ lalu restart.`;
-          if (tg.isConfigured) await tg.sendMessage(errMsg);
-          else console.log(chalk.red(errMsg));
-          sudahLogin = false;
+        } catch (e) {
+          console.error(chalk.red(`❌ Gagal kirim QR ke Telegram: ${e.message}`));
+          try {
+            await tg.sendMessage(`❌ Gagal kirim QR ke Telegram: ${e.message}`);
+          } catch (_) {}
         }
-      }
-
-      if (modeLogin === 'qr') {
-        if (tg.isConfigured) {
-          try {
-            const qrcode = require('qrcode');
-            const buf = await qrcode.toBuffer(qr, { type: 'png', scale: 6, margin: 2 });
-            await tg.sendPhoto(buf, '📷 <b>Scan QR ini dengan WhatsApp</b>\n⏰ Berlaku ~30 detik\n\nJika expired, QR baru akan dikirim otomatis.');
-          } catch (e) {
-            await tg.sendMessage(`❌ Gagal kirim QR: ${e.message}`);
-          }
-        } else {
-          try {
-            const qrTerminal = require('qrcode-terminal');
-            console.log(chalk.cyan('\n📷 Scan QR berikut dengan WhatsApp:\n'));
-            qrTerminal.generate(qr, { small: true });
-            console.log(chalk.gray('  QR refresh otomatis tiap ~30 detik.\n'));
-          } catch {
-            console.log(chalk.red('❌ qrcode-terminal tidak tersedia.'));
-          }
+      } else {
+        try {
+          const qrTerminal = require('qrcode-terminal');
+          console.log(chalk.cyan('\n📷 Scan QR berikut dengan WhatsApp:\n'));
+          qrTerminal.generate(qr, { small: true });
+          console.log(chalk.gray('  QR refresh otomatis tiap ~30 detik.\n'));
+        } catch {
+          console.log(chalk.red('❌ qrcode-terminal tidak tersedia.'));
         }
       }
     }
